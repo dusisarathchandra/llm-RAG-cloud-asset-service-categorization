@@ -1,0 +1,67 @@
+services:
+  ollama:
+    image: ollama/ollama
+    container_name: ollama
+    volumes:
+      - ollama:/root/.ollama
+    ports:
+      - "11434:11434"
+    stdin_open: true
+    tty: true
+
+  elasticsearch:
+    image: elasticsearch:8.4.3
+    container_name: elasticsearch
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+    stdin_open: true
+    tty: true
+    restart: always
+  # streamlit:
+  #   image: streamlit/streamlit:latest
+  #   container_name: streamlit
+  #   volumes:
+  #     - ./app:/app
+  #   ports:
+  #     - "8501:8501"
+  #   command: streamlit run /app/app.py
+  #   stdin_open: true
+  #   tty: true
+  
+  grafana:
+    image: grafana/grafana-enterprise
+    container_name: grafana
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./grafana/provisioning:/etc/grafana/provisioning
+      - ./grafana/dashboards:/var/lib/grafana/dashboards
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_SECURITY_COOKIE_SAMESITE=none
+    stdin_open: true
+    tty: true
+    depends_on:
+      - postgres
+  
+  postgres:
+    image: postgres:latest
+    container_name: postgres
+    environment:
+      POSTGRES_DB: user_feedback
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: admin
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  ollama:
+  grafana-data:
+  postgres_data:

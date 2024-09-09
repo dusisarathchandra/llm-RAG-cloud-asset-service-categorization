@@ -1,0 +1,1303 @@
+cloud_provider,category,service,description
+aws,Analytics,Amazon Athena,An interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL.
+aws,Analytics,Amazon CloudSearch,A managed service in the AWS Cloud that makes it simple to set up manage and scale a search solution for your website or application.
+aws,Analytics,Amazon Elastic MapReduce,A web service that makes it easy to process large amounts of data efficiently.
+aws,Analytics,Amazon Elasticsearch Service,A managed service that makes it easy to deploy operate and scale Elasticsearch clusters in the AWS Cloud.
+aws,Analytics,Amazon EMR,"A cloud big data platform for processing vast amounts of data using open-source tools such as Apache Spark, Apache Hive and Apache HBase."
+aws,Analytics,Amazon Kinesis,A platform on AWS to collect process and analyze real-time streaming data.
+aws,Analytics,Amazon Kinesis Analytics,Enables you to process and analyze streaming data using standard SQL.
+aws,Analytics,Amazon Kinesis Firehose,A fully managed service for delivering real-time streaming data to destinations such as Amazon S3 and Amazon Redshift.
+aws,Analytics,Amazon QuickSight,A fast cloud-powered business intelligence service that makes it easy to deliver insights to everyone in your organization.
+aws,Analytics,AWS Data Pipeline,A web service that helps you reliably process and move data between different AWS compute and storage services.
+aws,Analytics,AWS Glue,A fully managed extract transform and load (ETL) service that makes it easy to prepare and load data for analytics.
+aws,Analytics,AWS IoT,A platform that enables you to connect devices to the cloud and interact with cloud applications and other devices.
+aws,Analytics,AWS IoT Analytics,A fully managed service that makes it easy to run and operationalize sophisticated analytics on massive volumes of IoT data.
+aws,Analytics,AWS Greengrass,Extends AWS to edge devices so they can act locally on the data they generate while still using the cloud for management analytics and durable storage.
+aws,Analytics,StreamSets Data Collector,A lightweight powerful design and execution engine that streams data in real-time.
+aws,Analytics,StreamSets Transformer (Small),A data transformation engine that allows you to build and execute data pipelines.
+aws,Analytics,Teradata Vantage Enterprise (DIY),A cloud data analytics platform that unifies analytics data lakes and data warehouses.
+aws,Analytics,Amazon Elasticsearch Service Reserved Instance,A reserved instance for Amazon Elasticsearch Service.
+aws,Analytics,Amazon Managed Griffin,A managed service for data analytics.
+aws,Analytics,Alation Data Catalog,A data catalog that helps organizations find understand and trust their data.
+aws,Artificial Intelligence,Amazon Comprehend,A natural language processing (NLP) service that uses machine learning to find insights and relationships in text.
+aws,Artificial Intelligence,Amazon Lex,A service for building conversational interfaces into any application using voice and text.
+aws,Artificial Intelligence,Amazon Machine Learning,A service that makes it easy for developers of all skill levels to use machine learning technology.
+aws,Artificial Intelligence,Amazon Polly,A service that turns text into lifelike speech.
+aws,Artificial Intelligence,Amazon Rekognition,A service that makes it easy to add image and video analysis to your applications.
+aws,Artificial Intelligence,Amazon Translate,A neural machine translation service that delivers fast high-quality and affordable language translation.
+aws,Artificial Intelligence,Apache MXNet on AWS,A deep learning framework that allows you to define train and deploy neural networks.
+aws,Artificial Intelligence,AWS Deep Learning AMIs,Provides machine learning practitioners and researchers with the infrastructure and tools to accelerate deep learning in the cloud.
+aws,Artificial Intelligence,TensorFlow on AWS,An open-source software library for dataflow and differentiable programming across a range of tasks.
+aws,Artificial Intelligence,Alexa for Business,A service that enables organizations and employees to use Alexa to get more work done.
+aws,Artificial Intelligence,Amazon Textract,A service that automatically extracts text and data from scanned documents.
+aws,Artificial Intelligence,Amazon Kendra,An intelligent search service powered by machine learning.
+aws,Artificial Intelligence,Amazon Forecast,A fully managed service that uses machine learning to deliver highly accurate forecasts.
+aws,Artificial Intelligence,Amazon Personalize,A machine learning service that makes it easy for developers to create individualized recommendations for customers.
+aws,Artificial Intelligence,Product Discovery and Search,A service that helps users find products and services.
+aws,Artificial Intelligence,Claude Instant (12K) (Amazon Bedrock Edition),A language model for natural language understanding and generation.
+aws,Artificial Intelligence,SDXL Beta V0.8 (Amazon Bedrock Edition),A beta version of a language model for natural language understanding and generation.
+aws,Artificial Intelligence,Data Labeling Services by iMerit,A service that provides data labeling for machine learning.
+aws,Artificial Intelligence,Jurassic-2 Mid (Amazon Bedrock Edition),A language model for natural language understanding and generation.
+aws,Artificial Intelligence,Jurassic-2 Ultra (Amazon Bedrock Edition),A language model for natural language understanding and generation.
+aws,Artificial Intelligence,Claude(12K) (Amazon Bedrock Edition),A language model for natural language understanding and generation.
+aws,Charge,APN Annual Program Fee,An annual fee for the AWS Partner Network program.
+aws,Charge,OCBFinance Charge,A finance charge for AWS services.
+aws,Compute Savings Plan,Savings Plans for AWS Compute usage,A flexible pricing model that offers significant savings on AWS usage.
+aws,Compute Reserved,Amazon Reserved Instance,A reservation of capacity for Amazon EC2 instances.
+aws,Compute,Amazon API Gateway,A fully managed service that makes it easy for developers to create publish maintain monitor and secure APIs.
+aws,Other,Unassociated Cost,Costs that are not associated with any specific service.
+aws,Compute,Amazon EC2,A web service that provides resizable compute capacity in the cloud.
+aws,Compute,Amazon EC2 Container Registry,A fully managed Docker container registry that makes it easy for developers to store manage and deploy Docker container images.
+aws,Compute,Amazon EC2 Container Registry (ECR),"A fully managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images."
+aws,Compute,Amazon EC2 Container Service,"A highly scalable, high-performance container management service."
+aws,Compute,Amazon Elastic Compute Cloud,A web service that provides resizable compute capacity in the cloud.
+aws,Compute,Amazon Elastic Container Service for Kubernetes,A managed service that makes it easy to run Kubernetes on AWS without needing to install and operate your own Kubernetes control plane.
+aws,Compute,Amazon Elastic Container Service,"A highly scalable, high-performance container management service."
+aws,Compute,Amazon Elastic Load Balancer,A load balancing service for AWS deployments.
+aws,Compute,Amazon Lightsail,A simplified cloud platform that offers everything you need to build an application or website.
+aws,Compute,Amazon Managed Streaming for Apache Kafka,A fully managed service that makes it easy to build and run applications that use Apache Kafka to process streaming data.
+aws,Compute,Amazon Virtual Private Cloud,A service that lets you provision a logically isolated section of the AWS cloud where you can launch AWS resources in a virtual network.
+aws,Compute,Microsoft Windows Server 2008 R2,A version of the Windows Server operating system.
+aws,Compute,OpenLDAP - Open Source Directory Services powered by TurnKey Linux (HVM),An open-source implementation of the Lightweight Directory Access Protocol.
+aws,Compute,Auto Scaling,A service that automatically adjusts the number of Amazon EC2 instances in response to changing demand.
+aws,Compute,AWS Batch,"A fully managed service that enables developers, scientists, and engineers to easily and efficiently run hundreds of thousands of batch computing jobs."
+aws,Compute,AWS CodeArtifact,"A fully managed artifact repository service that makes it easy for organizations to securely store, publish, and share software packages."
+aws,Compute,AWS CodeBuild,"A fully managed continuous integration service that compiles source code, runs tests, and produces software packages that are ready to deploy."
+aws,Compute,AWS CodeCommit,A fully managed source control service that makes it easy for teams to host secure and scalable Git repositories.
+aws,Compute,AWS CodeDeploy,"A service that automates code deployments to any instance, including Amazon EC2 instances and instances running on-premises."
+aws,Compute,AWS CodePipeline,A continuous integration and continuous delivery service for fast and reliable application and infrastructure updates.
+aws,Compute,AWS CodeStar,"A service that enables you to quickly develop, build, and deploy applications on AWS."
+aws,Compute,AWS Elastic Beanstalk,An easy-to-use service for deploying and scaling web applications and services.
+aws,Compute,AWS Lambda,A compute service that lets you run code without provisioning or managing servers.
+aws,Compute,AWS Step Functions,A serverless orchestration service that lets you combine AWS Lambda functions and other AWS services to build business-critical applications.
+aws,Compute,CodeBuild,"A fully managed continuous integration service that compiles source code, runs tests, and produces software packages that are ready to deploy."
+aws,Compute,Elastic Load Balancing,A load balancing service for AWS deployments.
+aws,Compute,PHP 7 - Zend Server Developer Edition (Ubuntu),A PHP application server for developing and deploying PHP applications.
+aws,Compute,Rhel8 Lampstack,A LAMP stack on Red Hat Enterprise Linux 8.
+aws,Compute,AWS Tools & SDKs,Tools and SDKs for developing applications on AWS.
+aws,Compute,NGINX Plus Basic - Amazon Linux 2 (LTS) AMI,"A high-performance web server, load balancer, and reverse proxy."
+aws,Compute,NGINX Plus Basic - Amazon Linux AMI,"A high-performance web server, load balancer, and reverse proxy."
+aws,Compute,NGINX Plus Premium - Amazon Linux 2 (LTS) AMI,"A high-performance web server, load balancer, and reverse proxy."
+aws,Compute,Ubuntu 17.04 SELinux enforcing AMI with ec2-user context,An Ubuntu AMI with SELinux enforcing.
+aws,Compute,Secured Visual Studio Professional 2019 on Windows Server 2019,A secured version of Visual Studio Professional 2019 on Windows Server 2019.
+aws,Compute,Rocky Linux 8 with LVM,A version of Rocky Linux 8 with Logical Volume Management.
+aws,Compute,CentOS 7 w/Support by SupportedImages,A version of CentOS 7 with support.
+aws,Compute,Flow Logs for VPC,A feature that enables you to capture information about the IP traffic going to and from network interfaces in your VPC.
+aws,Compute Reserved,Amazon Redshift reserved node,A reserved node for Amazon Redshift.
+aws,Database,Amazon Keyspaces (for Apache Cassandra),Managed Cassandra-compatible database service
+aws,Database,Amazon Neptune,Graph database service
+aws,Database Reserved,Amazon Reserved DB Instance,Reserved instances for database services
+aws,Database,Amazon Aurora,High-performance managed relational database
+aws,Database,Amazon DocumentDB (with MongoDB compatibility),Managed MongoDB-compatible database service
+aws,Database,Amazon DynamoDB,Managed NoSQL database service
+aws,Database,Amazon DynamoDB Accelerator,In-memory caching for DynamoDB
+aws,Database,Amazon ElastiCache,In-memory caching service
+aws,Database,Amazon RDS,Managed relational database service
+aws,Database,Amazon RDS Service,Managed relational database service
+aws,Database,Amazon Redshift,Data warehousing service
+aws,Database,Amazon Relational Database Service,Managed relational database service
+aws,Database,Amazon SimpleDB,NoSQL database service
+aws,Database,AWS Database Migration Service,Service to migrate databases to AWS
+aws,Database,DynamoDB Accelerator (DAX),In-memory caching for DynamoDB
+aws,Database,Amazon Quantum Ledger Database,Managed ledger database service
+aws,Database,Amazon MemoryDB,Redis-compatible in-memory database service
+aws,Database,Amazon Timestream,Time series database service
+aws,Monitoring,Amazon CloudWatch,Monitoring and observability service
+aws,Monitoring,Amazon EC2 Systems Manager,Manage EC2 instances
+aws,Monitoring,AmazonCloudWatch,Monitoring and observability service
+aws,Monitoring,AWS CloudFormation,Infrastructure as code service
+aws,Monitoring,AWS CloudTrail,Logging and monitoring of AWS account activity
+aws,Monitoring,AWS Cost and Usage Report,Cost and usage reporting service
+aws,Monitoring,AWS OpsWorks,Configuration management service
+aws,Monitoring,AWS Personal Health Dashboard,Personalized view of AWS service health
+aws,Monitoring,AWS Systems Manager,Manage AWS resources
+aws,Monitoring,AWS X-Ray,Distributed tracing service
+aws,Monitoring,Reserved Instance Reporting,Reporting for reserved instances
+aws,Network,Amazon CloudFront,Content delivery network service
+aws,Network,Amazon Elastic IP,Static IP addresses for AWS resources
+aws,Network,Amazon Route 53,Scalable DNS and domain name registration service
+aws,Network,Amazon VPC,Virtual private cloud service
+aws,Network,AWS Data Transfer,Data transfer service
+aws,Network,AWS Direct Connect,Dedicated network connection to AWS
+aws,Network,Network Security Rules,Network security management
+aws,Network,OpenVPN,VPN service
+aws,Network,OpenVPN Access Server (10 Connected Devices),VPN service for up to 10 devices
+aws,Network,AWS Global Accelerator,Global traffic management service
+aws,Network,Cisco Cloud Services Router (CSR) 1000V - Security Pkg. Max Performance,Virtual router with security features
+aws,Network,Cisco Cloud Services Router (CSR) 1000V - AX Pkg. Max Performance,Virtual router with advanced features
+aws,Network,AWS Network Firewall,Managed network firewall service
+aws,Security,Amazon Cloud Directory,Directory service for organizing hierarchies of data
+aws,Security,Amazon Inspector,Automated security assessment service
+aws,Security,Amazon Macie,Data security and privacy service
+aws,Security,AWS Artifact,Compliance and audit reporting service
+aws,Security,AWS Certificate Manager,Manage SSL/TLS certificates
+aws,Security,AWS CloudHSM,Hardware security module service
+aws,Security,AWS Firewall Manager,Centralized firewall management service
+aws,Security,AWS Identity and Access Management,Manage access to AWS resources
+aws,Security,AWS Key Management Service,Managed encryption key service
+aws,Security,AWS Organizations,Manage multiple AWS accounts
+aws,Security,AWS Secrets Manager,Manage secrets and credentials
+aws,Security,AWS Security Hub,Centralized security management service
+aws,Security,AWS Shield,DDoS protection service
+aws,Security,AWS WAF,Web application firewall service
+aws,Security,F5 Rules,Security rules for AWS WAF
+aws,Security,F5 Rules for AWS WAF - Web exploits OWASP Rules,Security rules for web exploits
+aws,Security,Fortinet Managed Rules for AWS WAF - Complete OWASP Top 10,Security rules for OWASP Top 10
+aws,Security,VM-Series Next-Generation Firewall Bundle 1,Virtual firewall with security features
+aws,Security,VM-Series Virtual NextGen Firewall w/ 5 Core Security Subs - Bundle2 AWS,Virtual firewall with advanced security features
+aws,Security,VM-Series Virtual NextGen Firewall w/ Threat Prevention - Bundle1 AWS,Virtual firewall with threat prevention
+aws,Security,Amazon Detective,Investigate security issues
+aws,Security,Secrets Manager,Manage secrets and credentials
+aws,Security,Trend Micro Cloud One,Cloud security service
+aws,Security,Trend Micro Enterprise Solutions powered by Vision One with XDR,Enterprise security solutions
+aws,Security,Trend Cloud One,Cloud security service
+aws,Security,CIS Amazon Linux 2 Kernel 4.14 Benchmark - 1,Security benchmark for Amazon Linux 2
+aws,Security,CIS Amazon Linux 2 Benchmark - 1 (ARM),Security benchmark for Amazon Linux 2 on ARM
+aws,Security,CIS Amazon Linux 2 Kernel 4.14 Benchmark - Level 1,Security benchmark for Amazon Linux 2
+aws,Security,CIS CentOS Linux 7 Benchmark L1 Container Image,Security benchmark for CentOS Linux 7
+aws,Security,CIS Red Hat Enterprise Linux 7 Benchmark - Level 1,Security benchmark for Red Hat Enterprise Linux 7
+aws,Security,CIS Red Hat Enterprise Linux 8 Benchmark - Level 1,Security benchmark for Red Hat Enterprise Linux 8
+aws,Security,CIS Amazon Linux 2 Benchmark - Level 1 (ARM),Security benchmark for Amazon Linux 2 on ARM
+aws,Security,CIS Ubuntu Linux 20.04 LTS Benchmark - Level 1,Security benchmark for Ubuntu Linux 20.04 LTS
+aws,Security,Prisma Cloud (Annual Contract),Cloud security service
+aws,Service,Amazon AppStream,Application streaming service
+aws,Service,Amazon Chime,Online meeting and video conferencing service
+aws,Service,Amazon Chime Dialin,Telephony service for Amazon Chime
+aws,Service,Amazon Cognito,User authentication and authorization service
+aws,Service,Amazon Connect,Cloud contact center service
+aws,Service,Amazon Elastic Transcoder,Media transcoding service
+aws,Service,Amazon GuardDuty,Threat detection service
+aws,Service,Amazon MQ,Managed message broker service
+aws,Service,Amazon Pinpoint,Customer engagement service
+aws,Service,Amazon Purchase Recommendation,Purchase recommendation service
+aws,Service,Amazon Registrar,Domain name registration service
+aws,Service,Amazon SageMaker,Machine learning service
+aws,Service,Amazon Simple Email Service,Email sending service
+aws,Service,Amazon Simple Notification Service,Notification service
+aws,Service,Amazon Simple Queue Service,Message queuing service
+aws,Service,Amazon Simple Workflow Service,Workflow automation service
+aws,Service,Amazon Transcribe,Speech-to-text service
+aws,Service,Amazon WorkDocs,Document collaboration service
+aws,Service,Amazon WorkMail,Email and calendar service
+aws,Service,Amazon WorkSpaces,Virtual desktop service
+aws,Service,AmazonWorkMail,Email and calendar service
+aws,Service,AWS Amplify,Development platform for building mobile and web applications
+aws,Service,AWS Application Discovery Service,Discover on-premises applications
+aws,Service,AWS Budgets,Budget management service
+aws,Service,AWS Cloud Map,Service discovery service
+aws,Service,AWS Command Line Interface,Command line interface for AWS
+aws,Service,AWS Config,Configuration management service
+aws,Service,AWS Cost Explorer,Cost management service
+aws,Service,AWS Device Farm,Mobile app testing service
+aws,Service,AWS Directory Service,Managed directory service
+aws,Service,AWS Elemental MediaStore,Media storage service
+aws,Service,AWS Managed Services,Managed services for AWS infrastructure
+aws,Service,AWS Management Console,Web-based interface for managing AWS
+aws,Service,AWS Migration Hub,Centralized migration tracking service
+aws,Service,AWS Mobile Hub,Mobile app development service
+aws,Service,AWS Mobile SDK,Software development kit for mobile apps
+aws,Service,AWS Schema Conversion Tool,Database schema conversion tool
+aws,Service,AWS Server Migration Service,Server migration service
+aws,Service,AWS Service Catalog,Service catalog management
+aws,Service,AWS Transfer Family - Migration & Transfer,Data transfer service
+aws,Service,AWS Transfer Family,Data transfer service
+aws,Service,AWS Trusted Advisor,Resource optimization service
+aws,Service,Cloudwatch Events,Event monitoring service
+aws,Service,Comprehend Medical,Medical text analysis service
+aws,Service,AWS AppSync,GraphQL API service
+aws,Service,AWS CloudShell,Web-based shell for managing AWS resources
+aws,Service,Magento2 Base Version,E-commerce platform
+aws,Service,Amazon Kinesis Video Streams,Video streaming service
+aws,Service,Amazon OpenSearch Service,Managed search and analytics service
+aws,Service,Amazon Location Service,Location-based service
+aws,Service,ContactCenterTelecomm,Telecommunications service for contact centers
+aws,Service,AWS Resilience Hub,Resilience assessment and planning service
+aws,Service,Contact Lens for Amazon Connect,Contact center analytics service
+aws,Service,Rozie Experience Cloud,Customer experience management service
+aws,Service,Red Hat OpenShift Service on AWS,Managed OpenShift service
+aws,Service,Tax,Tax calculation service
+aws,Service,Amazon Managed Workflows for Apache Airflow,Managed Apache Airflow service
+aws,Service,Amazon Managed Service for Prometheus,Managed Prometheus service
+aws,Service,Amazon Managed Grafana,Managed Grafana service
+aws,Service,Amazon Fraud Detector,Fraud detection service
+aws,Service,AWS DataSync,Data transfer service
+aws,Service,Elastic Cloud (Elasticsearch Service),Managed Elasticsearch service
+aws,Service,GitLab Premium Self Managed License,Self-managed GitLab service
+aws,Service,Training and Certification Vouchers,Training and certification service
+aws,Service,AWS Compute Optimizer,Resource optimization service
+aws,Service,AWS Audit Manager,Audit management service
+aws,Service,AWS Lake Formation,Data lake management service
+aws,Service,(Private) Cortex,Private data service
+aws,Storage,Amazon Elastic Block Storage,Provides block storage volumes for use with Amazon EC2 instances.
+aws,Storage,Amazon Elastic File System,Provides scalable file storage for use with Amazon EC2.
+aws,Storage,AWS Application Migration Service,Enables migration of applications to AWS.
+aws,Storage,Amazon FSx,Provides fully managed file storage.
+aws,Storage,Amazon Glacier,Provides low-cost cloud storage for data archiving and long-term backup.
+aws,Storage,Amazon Simple Storage Service,Provides scalable object storage.
+aws,Storage,AWS Snowball,Offers petabyte-scale data transport solutions.
+aws,Storage,AWS Snowball Edge,Provides edge computing and data transfer.
+aws,Storage,AWS Snowmobile,Enables exabyte-scale data transfer to AWS.
+aws,Storage,AWS Storage Gateway,Connects on-premises software appliances with cloud-based storage.
+aws,Storage,AWS Backup,Provides centralized backup service.
+aws,Storage,N2WS Backup & Recovery for AWS Enterprise Edition,Offers backup and recovery solutions for AWS.
+aws,Storage,Amazon S3 Glacier Deep Archive,Provides long-term data archiving with retrieval times in hours.
+aws,Support,AWS Premium Support,Offers 24/7 technical support.
+aws,Support,AWS Support (Business),Provides business-level support.
+aws,Support,AWS Support (Developer),Provides developer-level support.
+aws,Support,AWS Support (Enterprise),Provides enterprise-level support.
+aws,Unknown,Unknown,Service details not available.
+azure,Analytics,Analysis Services,Provides enterprise-grade analytics engine.
+azure,Analytics,Application Insights,Offers application performance management and monitoring.
+azure,Analytics,Azure Analysis Services,Provides enterprise-grade analytics as a service.
+azure,Analytics,Azure Data Factory,Enables data integration and transformation.
+azure,Analytics,Azure Data Factory v2,Provides cloud-based data integration service.
+azure,Analytics,Azure Databricks,Offers Apache Spark-based analytics platform.
+azure,Analytics,Azure IoT Hub,Provides secure communication between IoT applications and devices.
+azure,Analytics,Azure Synapse Analytics,Offers analytics service that brings together big data and data warehousing.
+azure,Analytics,Business Analytics,Provides business intelligence and analytics.
+azure,Analytics,Cognitive Services,Offers AI services and cognitive APIs.
+azure,Analytics,Data Catalog,Provides data discovery and metadata management.
+azure,Analytics,Data Factory,Enables data integration and transformation.
+azure,Analytics,Data Lake Analytics,Provides on-demand analytics job service.
+azure,Analytics,Data Lake Store,Offers scalable data storage.
+azure,Analytics,Data Management,Provides data management services.
+azure,Analytics,Data Services,Offers various data services.
+azure,Analytics,Dynamics 365 for Customer Insights,Provides customer data platform.
+azure,Analytics,Event Hubs,Offers big data streaming platform and event ingestion service.
+azure,Analytics,HDInsight,Provides cloud distribution of Hadoop components.
+azure,Analytics,Insight and Analytics,Offers insights and analytics services.
+azure,Analytics,IoT Hub,Provides secure communication between IoT applications and devices.
+azure,Analytics,Log Analytics,Offers log data collection and analysis.
+azure,Analytics,microsoft.insights/components,Provides insights components.
+azure,Analytics,microsoft.operationalinsights/workspaces,Offers operational insights workspaces.
+azure,Analytics,Power BI,Provides business analytics service.
+azure,Analytics,Power BI Embedded,Offers Power BI capabilities in applications.
+azure,Analytics,Stream Analytics,Provides real-time stream processing.
+azure,Analytics Reserved,Azure RI Synapse Analytics,Reserved instance for Synapse Analytics.
+azure,Analytics Reserved,Azure RI Databricks,Reserved instance for Databricks.
+azure,Artificial Intelligence,Azure Cognitive Search,Provides AI-powered cloud search service.
+azure,Artificial Intelligence,Azure Machine Learning,Offers cloud-based machine learning service.
+azure,Artificial Intelligence,Machine Learning,Provides machine learning services.
+azure,Artificial Intelligence,Machine Learning Service,Offers managed machine learning service.
+azure,Artificial Intelligence,Machine Learning Studio,Provides collaborative data science development environment.
+azure,Artificial Intelligence,ML API Services,Offers machine learning API services.
+azure,Compute Reserved,Azure Reserved Instance,Reserved instance for compute services.
+azure,Compute,10 Hrs,Provides 10 hours of compute service.
+azure,Compute,100 Hourly Reserved Units,Offers 100 hourly reserved compute units.
+azure,Compute,100 Hourly Units,Provides 100 hourly compute units.
+azure,Compute,100 Hrs,Offers 100 hours of compute service.
+azure,Compute,100 Minutes,Provides 100 minutes of compute service.
+azure,Compute,API Management,Offers API management service.
+azure,Compute,App Services,Provides platform for building and hosting web apps.
+azure,Compute,Automation,Offers automation services.
+azure,Compute,Automation and Control,Provides automation and control services.
+azure,Compute,Azure App Service Plan,Offers plans for Azure App Service.
+azure,Compute,Azure App Service,Provides platform for building and hosting web apps.
+azure,Compute,Batch,Offers job scheduling and compute management.
+azure,Compute,Cloud Services,Provides cloud-based services.
+azure,Compute,Container Instances,Offers container management service.
+azure,Compute,Container Registry,Provides container image registry service.
+azure,Compute,Functions,Offers serverless compute service.
+azure,Compute,Microsoft.Compute/virtualMachines,Provides virtual machines.
+azure,Compute,Microsoft.Web/serverfarms,Offers server farms for web hosting.
+azure,Compute,Microsoft.Web/sites,Provides web hosting services.
+azure,Compute,RemoteApp,Offers remote application services.
+azure,Compute,Scheduler,Provides job scheduling service.
+azure,Compute,Service Bus,Offers messaging infrastructure.
+azure,Compute,Virtual Machines,Provides virtual machines.
+azure,Other,Unassociated Cost,Represents unassociated costs.
+azure,Compute,Visual Studio,Offers development tools.
+azure,Compute,Websites,Provides web hosting services.
+azure,Compute,Windows Azure Service Bus,Offers messaging infrastructure.
+azure,Compute,Specialized Compute,Provides specialized compute services.
+azure,Compute Reserved,Azure RI Dedicated Host,Reserved instance for dedicated host.
+azure,Compute Reserved,Azure RI Red Hat OpenShift,Reserved instance for Red Hat OpenShift.
+azure,Database,Azure Cosmos DB,"Provides globally distributed, multi-model database service."
+azure,Database,Azure Database for MariaDB,Offers managed MariaDB database service.
+azure,Database,Azure Database for MySQL,Provides managed MySQL database service.
+azure,Database,Azure Database for PostgreSQL,Offers managed PostgreSQL database service.
+azure,Database,Azure DB for MYSql,Provides managed MySQL database service.
+azure,Database,Database Services,Offers various database services.
+azure,Database,DocumentDB,Provides NoSQL document database service.
+azure,Database,Managed SQL Instance,Offers managed SQL database instance.
+azure,Database,SQL Data Warehouse,Provides data warehousing service.
+azure,Database,SQL Database,Offers managed SQL database service.
+azure,Database,ElasticPool,Provides elastic pool for SQL databases.
+azure,Database,SQL Managed Instance,Offers managed SQL database instance.
+azure,Database,SQL Reporting,Provides SQL reporting services.
+azure,Database,SQL Server Stretch Database,Offers SQL Server stretch database service.
+azure,Database,SQL Elastic Pool,Provides elastic pool for SQL databases.
+azure,DevOps,Azure DevOps,Offers development and collaboration tools.
+azure,Container,Azure Kubernetes Service,Provides managed Kubernetes service.
+azure,License,License,Represents licensing costs.
+azure,License,Virtual Machines Licenses,Provides licenses for virtual machines.
+azure,Monitoring,Azure Monitor,Offers monitoring and diagnostics service.
+azure,Monitoring,Network Watcher,Provides network monitoring and diagnostics.
+azure,Network,*Microsoft.Network/networkInterfaces,Provides network interfaces for Azure virtual machines.
+azure,Network,Application Gateway,Offers application-level routing and load balancing.
+azure,Network,Azure Active Directory B2C,Provides identity management for customer-facing applications.
+azure,Network,Azure Bastion,Enables secure and seamless RDP and SSH connectivity to VMs.
+azure,Network,Azure DDOS Protection,Provides distributed denial-of-service (DDoS) protection.
+azure,Network,Azure DNS,Offers DNS domain hosting.
+azure,Network,Azure Firewall,"Provides managed, cloud-based network security service."
+azure,Network,Azure Firewall Manager,Centralizes management of Azure Firewall policies.
+azure,Network,Bandwidth,Represents data transfer costs.
+azure,Network,CDN Data Transfer,Provides content delivery network data transfer.
+azure,Network,Event Grid,Offers event routing service.
+azure,Network,ExpressRoute,Provides private connections to Azure datacenters.
+azure,Network,Load Balancer,Offers load balancing for applications.
+azure,Network,Microsoft.Network/networkInterfaces,Provides network interfaces for Azure virtual machines.
+azure,Network,Microsoft.Network/publicIPAddresses,Offers public IP addresses for Azure resources.
+azure,Network,Microsoft.Storage/publicIPAddresses,Provides public IP addresses for Azure storage accounts.
+azure,Network,NAT Gateway,Provides outbound internet connectivity for virtual networks.
+azure,Network,Network/dnszones,Offers DNS zone management.
+azure,Network,Network/loadBalancers,Provides load balancing for applications.
+azure,Network,Network/networkSecurityGroups,Offers network security group management.
+azure,Network,Network/privateDnsZones,Provides private DNS zone management.
+azure,Network,Network/publicIPAddresses,Offers public IP addresses for Azure resources.
+azure,Network,Networking,Represents general networking services.
+azure,Network,Notification Hubs,Provides push notification services.
+azure,Network,Traffic Manager,Offers DNS-based traffic load balancing.
+azure,Network,Virtual Network,Provides virtual network management.
+azure,Network,Virtual WAN,Offers wide area network management.
+azure,Network,VPN Gateway,Provides site-to-site VPN connectivity.
+azure,Network,Azure Route Server,Enables dynamic routing between network virtual appliances.
+azure,Security,Advanced Threat Protection,Provides advanced threat detection and response.
+azure,Security,Identity,Offers identity management services.
+azure,Security,Key Vault,Provides secure key management.
+azure,Security,Multi-Factor Authentication,Offers multi-factor authentication services.
+azure,Security,Security Center,Provides unified security management.
+azure,Security,Advanced Data Security,Offers advanced data protection services.
+azure,Security,Sentinel,Provides cloud-native security information and event management (SIEM).
+azure,Security,Microsoft Defender for Cloud,Offers cloud security posture management.
+azure,Security,Azure Defender,Provides threat protection for Azure resources.
+azure,Service,Advisor/recommendations,Offers personalized best practices recommendations.
+azure,Service,Azure Bot Service,Provides bot development and hosting.
+azure,Service,Azure Search,Offers search-as-a-service.
+azure,Service,Backup,Provides backup and recovery services.
+azure,Service,BizTalk Services,Offers enterprise integration services.
+azure,Service,CDN,Provides content delivery network services.
+azure,Service,Content Delivery Network,Offers content delivery network services.
+azure,Service,Logic Apps,Provides workflow automation.
+azure,Service,Media Services,Offers media encoding and streaming services.
+azure,Service,Microsoft.ApiManagement/service,Provides API management services.
+azure,Service,Microsoft.Automation/automationAccounts,Offers automation account management.
+azure,Service,Microsoft.Search/searchServices,Provides search-as-a-service.
+azure,Service,microsoft.siterecovery/SiteRecoveryVault,Offers disaster recovery services.
+azure,Service,Mobile Engagement,Provides mobile engagement analytics.
+azure,Service,Mobile Services,Offers mobile backend services.
+azure,Service,Recovery Services,Provides disaster recovery services.
+azure,Service,SignalR,Offers real-time web functionality.
+azure,Service,Visual Studio Codespaces,Provides cloud-hosted development environments.
+azure,Service,Visual Studio Online,Offers cloud-hosted development environments.
+azure,Service,Visual Studio Subscription,Provides access to development tools and services.
+azure,Service,Visual Studio Team Services,Offers development collaboration tools.
+azure,Service,Windows Azure CDN,Provides content delivery network services.
+azure,Service,App Center,Offers continuous integration and delivery for mobile apps.
+azure,Service,App Configuration,Provides centralized configuration management.
+azure,Service,Azure Active Directory Domain Services,Offers managed domain services.
+azure,Service,Azure Data Share,Provides secure data sharing.
+azure,Service,Azure Front Door Service,Offers global load balancing and site acceleration.
+azure,Service,Azure Purview,Provides unified data governance.
+azure,Service,AzureMarketPlace,Offers a marketplace for Azure applications and services.
+azure,Service,SavingsPlan,Provides cost-saving plans for Azure services.
+azure,Service,MarketPlace,Offers a marketplace for Azure applications and services.
+azure,Service,Github,Provides GitHub services.
+azure,Service,Azure Load Testing,Offers load testing for applications.
+azure,Service,Power Automate,Provides workflow automation.
+azure,Service,Azure Arc,Offers hybrid cloud management.
+azure,Service,Azure Stack HCI,Provides hyper-converged infrastructure.
+azure,Service Reserved,Azure RI CloudSimple VMware Solution,Reserved instance for CloudSimple VMware Solution.
+azure,Service Reserved,Azure RI App Services,Reserved instance for App Services.
+azure,Service Reserved,Azure RI VMware Solution,Reserved instance for VMware Solution.
+azure,Storage,*Storage,Represents general storage services.
+azure,Storage,Disk,Provides disk storage.
+azure,Storage,BlobChangeFeed,Offers change feed for blob storage.
+azure,Storage,Blob,Provides object storage.
+azure,Storage,File,Offers file storage.
+azure,Storage,Blob Features,Provides additional features for blob storage.
+azure,Storage,Queue,Offers message queueing.
+azure,Storage,Table,Provides table storage.
+azure,Storage,Azure Data Lake Storage,Offers scalable data lake storage.
+azure,Storage,Cache,Provides caching services.
+azure,Storage,Container Storage,Offers container storage.
+azure,Storage,Microsoft.ClassicStorage/storageAccounts,Provides classic storage account management.
+azure,Storage,Microsoft.Compute/disks,Offers disk storage for compute services.
+azure,Storage,Microsoft.Storage/disks,Provides disk storage.
+azure,Storage,Microsoft.Storage/storageAccounts,Offers storage account management.
+azure,Storage,Redis Cache,Provides Redis-based caching.
+azure,Storage Reserved,Azure RI Redis Cache,Reserved instance for Redis Cache.
+azure,Storage,Site Recovery,Offers disaster recovery services.
+azure,Storage,Azure Site Recovery,Provides disaster recovery services.
+azure,Storage,Storage,Represents general storage services.
+azure,Storage,StorSimple,Offers hybrid cloud storage solutions.
+azure,Storage,Windows Azure Storage,Provides cloud storage services.
+azure,Storage,Azure NetApp Files,Offers enterprise-grade file storage.
+azure,Storage,Data Box,Provides data transfer appliances.
+azure,Storage Reserved,Azure RI Blob Storage,Reserved instance for Blob Storage.
+azure,Storage Reserved,Azure RI Managed Disks,Reserved instance for Managed Disks.
+azure,Support,Linux Support,Provides support for Linux on Azure.
+azure,Compute Reserved,Azure RI Virtual Machines,Reserved instances for virtual machines in Azure.
+azure,Database Reserved,Azure RI SQL Database,Reserved instances for SQL databases in Azure.
+azure,Database Reserved,Azure RI Cosmos DB,Reserved instances for Cosmos DB in Azure.
+azure,Database Reserved,Azure RI MySQL Database,Reserved instances for MySQL databases in Azure.
+azure,Database Reserved,Azure RI MariaDB Database,Reserved instances for MariaDB databases in Azure.
+azure,Database Reserved,Azure RI PostgreSQL Database,Reserved instances for PostgreSQL databases in Azure.
+gcp,Other,Unassociated Cost,Costs not associated with any specific service.
+gcp,Analytics,BigQuery,Data warehouse for large-scale data analytics.
+gcp,Analytics,BigQuery Data Transfer Service,Service to transfer data into BigQuery.
+gcp,Analytics,Cloud Dataflow,Stream and batch data processing service.
+gcp,Analytics,Cloud IoT Core,"Service to connect, manage, and ingest data from IoT devices."
+gcp,Analytics,DLP API,Data loss prevention API to protect sensitive data.
+gcp,Analytics,Genomics,Service for processing and analyzing genomic data.
+gcp,Analytics,Prediction,Machine learning predictions service.
+gcp,Artificial Intelligence,Cloud Machine Learning Engine,Managed service for building and deploying machine learning models.
+gcp,Artificial Intelligence,Cloud Natural Language API,API for natural language understanding.
+gcp,Artificial Intelligence,Cloud Speech API,API for converting audio to text.
+gcp,Artificial Intelligence,Cloud Text-to-Speech API,API for converting text to natural-sounding speech.
+gcp,Artificial Intelligence,Cloud TPU,Tensor Processing Units for machine learning workloads.
+gcp,Artificial Intelligence,Cloud Video Intelligence API,API for analyzing videos.
+gcp,Artificial Intelligence,Cloud Vision API,API for image analysis.
+gcp,Artificial Intelligence,Google Click to Deploy Deep Learning VM,Pre-configured VMs for deep learning.
+gcp,Artificial Intelligence,Machine Learning Engine,Managed service for building and deploying machine learning models.
+gcp,Artificial Intelligence,Translate,API for language translation.
+gcp,Artificial Intelligence,Vertex AI,"Platform for building, deploying, and scaling ML models."
+gcp,Compute,App Engine,Platform for building scalable web applications and mobile backends.
+gcp,Compute,Cloud Composer,Managed workflow orchestration service.
+gcp,Compute,Cloud Dialogflow API,API for building conversational interfaces.
+gcp,Compute,Cloud Endpoints,API management service.
+gcp,Compute,Cloud Functions,Event-driven serverless compute service.
+gcp,Compute,Cloud Load Balancing,Service for distributing traffic across multiple instances.
+gcp,Compute,Cloud Test Lab,Service for testing mobile apps on real devices.
+gcp,Compute,CommitmentCpu_1y_v1_Apac,1-year committed use contracts for CPU in APAC region.
+gcp,Compute,CommitmentCpu_1y_v1_Na,1-year committed use contracts for CPU in NA region.
+gcp,Compute,CommitmentRam_1y_v1_Apac,1-year committed use contracts for RAM in APAC region.
+gcp,Compute,CommitmentRam_1y_v1_Na,1-year committed use contracts for RAM in NA region.
+gcp,Compute,Compute Engine,"Scalable, high-performance virtual machines."
+gcp,Compute,Container Builder,Service for building container images.
+gcp,Compute,Container Registry,Private Docker image storage.
+gcp,Compute,Deployment Manager,Infrastructure deployment service.
+gcp,Compute,Firebase,Platform for building mobile and web applications.
+gcp,Compute,GCP App Engine,Platform for building scalable web applications and mobile backends.
+gcp,Compute,GCP Compute Engine Instance,"Scalable, high-performance virtual machines."
+gcp,Compute,Kubernetes Engine,Managed Kubernetes service.
+gcp,Compute,memcache,In-memory caching service.
+gcp,Compute,Resource Manager,Service for managing cloud resources.
+gcp,Compute,Shell,Interactive shell environment for managing cloud resources.
+gcp,Compute,Transcode API,API for transcoding media files.
+gcp,Compute,Weaveworks,Service for managing Kubernetes clusters.
+gcp,Compute,cloudtasks,Service for managing the execution of large numbers of distributed tasks.
+gcp,Database,bigtable,NoSQL database service for large analytical and operational workloads.
+gcp,Database,Cloud Bigtable,NoSQL database service for large analytical and operational workloads.
+gcp,Database,Cloud Datastore,NoSQL document database built for automatic scaling.
+gcp,Database,Cloud Memorystore for Redis,Managed Redis service.
+gcp,Database,Cloud Spanner,"Globally distributed, horizontally scalable database."
+gcp,Database,Cloud SQL,Managed relational database service.
+gcp,Database,Firebase Database,Realtime database for building mobile and web applications.
+gcp,Database,Firebase Realtime Database,Realtime database for building mobile and web applications.
+gcp,Database,GCP Cloud SQL Instance,Managed relational database service.
+gcp,Development,Places API,API for getting information about places.
+gcp,Development,Source Repository,Private Git repositories hosted on Google Cloud.
+gcp,Developer stacks,lamp-click-to-deploy-images-cloudpartnerservices-goog,Pre-configured LAMP stack images.
+gcp,Monitoring,Billing API,API for accessing billing information.
+gcp,Monitoring,Cloud Logging,"Service for storing, searching, analyzing, and monitoring log data."
+gcp,Monitoring,Debugger,Service for debugging applications in production.
+gcp,Monitoring,Error Reporting,Service for monitoring and reporting errors.
+gcp,Monitoring,Google Service Control,Service for managing service control policies.
+gcp,Monitoring,Monitoring,Service for monitoring cloud resources and applications.
+gcp,Monitoring,Stackdriver,"Integrated monitoring, logging, and diagnostics service."
+gcp,Monitoring,Stackdriver Logging,"Service for storing, searching, analyzing, and monitoring log data."
+gcp,Monitoring,Stackdriver Monitoring,Service for monitoring cloud resources and applications.
+gcp,Monitoring,Trace,Service for tracing and analyzing application performance.
+gcp,Network,Cloud DNS,Managed DNS service.
+gcp,Network,Cloud Interconnect,Service for connecting on-premises networks to Google Cloud.
+gcp,Network,Cloud Virtual Network,Virtual network service.
+gcp,Network,ExternalIp,Service for managing external IP addresses.
+gcp,Network,Firebase Hosting,Hosting service for web applications.
+gcp,Network,GCP Address,Service for managing IP addresses.
+gcp,Network,GCP Global Addresses,Service for managing global IP addresses.
+gcp,Network,GCP Backend Service,Service for managing backend services.
+gcp,Network,GCP Cloud DNS,Managed DNS service.
+gcp,Network,GCP Compute Network,Virtual network service.
+gcp,Network,GCP Compute Sub Network,Service for managing sub-networks.
+gcp,Network,GCP Firewall,Service for managing firewall rules.
+gcp,Network,GCP Forwarding Rule,Service for managing forwarding rules.
+gcp,Network,GCP Global Address,Service for managing global IP addresses.
+gcp,Network,GCP Global Forwarding Rule,Service for managing global forwarding rules.
+gcp,Network,GCP Health Check,Service for health checking resources.
+gcp,Network,Networking,General networking services.
+gcp,Security,Cloud IAM,Identity and access management for GCP resources.
+gcp,Security,Cloud Key Management Service,Manage encryption keys on GCP.
+gcp,Security,Firebase Auth,Authentication service for Firebase apps.
+gcp,Security,reCAPTCHA Enterprise,Protect websites from fraud and abuse.
+gcp,Service,Cloud Android Platform,Platform for building Android apps on GCP.
+gcp,Service,Cloud Build,Continuous integration and delivery service.
+gcp,Service,Cloud CDN,Content delivery network for faster web content delivery.
+gcp,Service,Cloud Job Discovery,Job search and recommendation service.
+gcp,Service,Cloud Key Management Service (KMS),Manage encryption keys on GCP.
+gcp,Service,Cloud Pub/Sub,Messaging service for event-driven systems.
+gcp,Service,Cloud Source Repositories,Private Git repositories hosted on GCP.
+gcp,Service,cloudkms,Manage encryption keys on GCP.
+gcp,Service,cloudscheduler,Schedule jobs and tasks on GCP.
+gcp,Service,Google Maps,Mapping service with various APIs.
+gcp,Service,kafka-cluster-bitnami-launchpad-cloudpartnerservices-goog,Managed Kafka clusters on GCP.
+gcp,Service,secretmanager,Securely store and manage secrets.
+gcp,Service,SendGrid,Email delivery service.
+gcp,Service,Support,Support services for GCP.
+gcp,Service,tensorflow-click-to-deploy-images-cloudpartnerservices-goog,Deploy TensorFlow models on GCP.
+gcp,Service,tomcat-click-to-deploy-images-cloudpartnerservices-goog,Deploy Tomcat applications on GCP.
+gcp,Service,Zync,Video transcoding service.
+gcp,Service,containeranalysis,Container security analysis service.
+gcp,Service,Distance Matrix API,Calculate travel distance and time.
+gcp,Service,Geocoding API,Convert addresses to geographic coordinates.
+gcp,Service,Maps API,Mapping and location services.
+gcp,Service,Directions API,Get directions between locations.
+gcp,Storage,Cloud Filestore,Managed file storage service.
+gcp,Storage,Cloud Storage,Object storage service.
+gcp,Storage,GCP Cloud Storage,Object storage service.
+gcp,Storage,GCP Compute Disk,Block storage for GCP VMs.
+gcp,Storage,Artifact Registry,Store and manage build artifacts.
+gcp,Storage,Komprise,Data management service.
+gcp,Support,support,Support services for GCP.
+ibmcloud,Apps,App ID,Identity and access management for IBM Cloud apps.
+ibmcloud,Apps,application_instance,Instance of an application on IBM Cloud.
+ibmcloud,Apps,developer-application,Tools for developing applications on IBM Cloud.
+ibmcloud,Apps,Liberty for Java™,Java application server.
+ibmcloud,Blockchain,blockchain,Blockchain service on IBM Cloud.
+ibmcloud,Charge,credit,Credits for IBM Cloud services.
+ibmcloud,Charge,mass_data_migration_shipment_fee,Fee for data migration services.
+ibmcloud,Charge,one_time_charge,One-time charge for IBM Cloud services.
+ibmcloud,Charge,premium,Premium services on IBM Cloud.
+ibmcloud,Compute,Bare Metal Servers and Attached Services,Physical servers with dedicated resources.
+ibmcloud,Compute,colo_hardware,Colocation hardware services.
+ibmcloud,Compute,container_instance,Instance of a container on IBM Cloud.
+ibmcloud,Compute,container-registry,Container registry service.
+ibmcloud,Compute,Container Registry,Container registry service.
+ibmcloud,Compute,container-registry_instance,Instance of a container registry.
+ibmcloud,Compute,dedicated_host_ram,Dedicated RAM for hosts.
+ibmcloud,Compute,dedicated_load_balancer,Dedicated load balancing service.
+ibmcloud,Compute,dedicated_virtual_hosts,Dedicated virtual hosts.
+ibmcloud,Compute,fourth_processor,Fourth processor for compute instances.
+ibmcloud,Compute,gateway_resource_group,Resource group for gateway services.
+ibmcloud,Compute,gpu0,First GPU for compute instances.
+ibmcloud,Compute,gpu1,Second GPU for compute instances.
+ibmcloud,Compute,guest_core,Core for guest VMs.
+ibmcloud,Compute,guest_core_usage,Usage of guest VM cores.
+ibmcloud,Compute,guest_disk0,First disk for guest VMs.
+ibmcloud,Compute,guest_disk1,Second disk for guest VMs.
+ibmcloud,Compute,guest_disk2,Third disk for guest VMs.
+ibmcloud,Compute,guest_disk3,Fourth disk for guest VMs.
+ibmcloud,Compute,guest_disk4,Fifth disk for guest VMs.
+ibmcloud,Compute,guest_pcie_device0,First PCIe device for guest VMs.
+ibmcloud,Compute,guest_storage,Storage for guest VMs.
+ibmcloud,Compute,guest_storage_usage,Usage of guest VM storage.
+ibmcloud,Compute,hardware_security_module,Hardware security module service.
+ibmcloud,Compute,image,Compute images for VMs.
+ibmcloud,Compute,instance,Compute instance on IBM Cloud.
+ibmcloud,Compute,instance-group,Group of compute instances.
+ibmcloud,Compute,iscsi_replication,iSCSI replication service.
+ibmcloud,Compute,load-balancer,Load balancing service.
+ibmcloud,Compute,load_balancer_as_a_service,Load balancing as a service.
+ibmcloud,Compute,load_balancer_bandwidth,Load balancer bandwidth.
+ibmcloud,Compute,load_balancer_bandwidth_usage,Usage of load balancer bandwidth.
+ibmcloud,Compute,load_balancer_data_processed,Data processed by load balancer.
+ibmcloud,Compute,load_balancer_data_processed_usage,Usage of data processed by load balancer.
+ibmcloud,Compute,Load Balancer for VPC,Load balancing for VPC.
+ibmcloud,Compute,load_balancer_uptime,Uptime of load balancer.
+ibmcloud,Compute,openstack_guest_core,Core for OpenStack guest VMs.
+ibmcloud,Compute,os,Operating system for compute instances.
+ibmcloud,Compute,os_addon,Add-ons for operating systems.
+ibmcloud,Compute,os_usage,Usage of operating systems.
+ibmcloud,Compute,plesk_billing,Billing for Plesk services.
+ibmcloud,Compute,power-iaas,Power infrastructure as a service.
+ibmcloud,Compute,proxy_load_balancer,Proxy load balancing service.
+ibmcloud,Compute,ram,RAM for compute instances.
+ibmcloud,Compute,ram_usage,Usage of RAM for compute instances.
+ibmcloud,Compute,remote_management,Remote management service.
+ibmcloud,Compute Reserved,reserved_capacity,Reserved capacity for compute instances.
+ibmcloud,Compute,resource_instance,Resource instance on IBM Cloud.
+ibmcloud,Compute,response,Response service for compute instances.
+ibmcloud,Compute,response_usage,Usage of response service.
+ibmcloud,Compute,sap_certified_server,SAP certified server.
+ibmcloud,Compute,second_processor,Second processor for compute instances.
+ibmcloud,Compute,server,Server on IBM Cloud.
+ibmcloud,Compute,server_core,Core for servers.
+ibmcloud,Compute,third_processor,Third processor for compute instances.
+ibmcloud,Compute,trusted_platform_module,Trusted platform module service.
+ibmcloud,Compute,virtual_datacenter,Virtual data center service.
+ibmcloud,Compute,virtual_peak_usage,Peak usage of virtual resources.
+ibmcloud,Compute,Virtual Server for VPC,Virtual server for VPC.
+ibmcloud,Compute,Virtual Servers and Attached Services,Virtual servers and attached services.
+ibmcloud,Compute,virtuozzo,Virtualization service.
+ibmcloud,Compute,vps,Virtual private server.
+ibmcloud,Compute,Code Engine,Serverless platform for running code.
+ibmcloud,Database,dashdb-for-transactions,Transactional database service
+ibmcloud,Database,database,General database service
+ibmcloud,Database,Databases for EDB,EnterpriseDB database service
+ibmcloud,Database,databases-for-elasticsearch,Elasticsearch database service
+ibmcloud,Database,Databases for Elasticsearch,Elasticsearch database service
+ibmcloud,Database,databases-for-enterprisedb,EnterpriseDB database service
+ibmcloud,Database,databases-for-etcd,etcd database service
+ibmcloud,Database,Databases for etcd,etcd database service
+ibmcloud,Database,databases-for-mongodb,MongoDB database service
+ibmcloud,Database,Databases for MongoDB,MongoDB database service
+ibmcloud,Database,databases-for-postgresql,PostgreSQL database service
+ibmcloud,Database,Databases for PostgreSQL,PostgreSQL database service
+ibmcloud,Database,databases-for-redis,Redis database service
+ibmcloud,Database,Databases for Redis,Redis database service
+ibmcloud,Database,Db2 Hosted,Hosted Db2 database service
+ibmcloud,Database,Db2 Warehouse,Db2 data warehousing service
+ibmcloud,Database,sql-query,SQL query service
+ibmcloud,Database,sql_server,SQL Server database service
+ibmcloud,Database,dashdb,DashDB database service
+ibmcloud,Kubernetes,containers-kubernetes,Kubernetes container orchestration service
+ibmcloud,Kubernetes,Kubernetes Service,Kubernetes container orchestration service
+ibmcloud,License,bare_metal_gateway_license,Bare metal gateway license service
+ibmcloud,License,new_customer_setup,New customer setup service
+ibmcloud,License,software_license,Software license management service
+ibmcloud,Monitoring,Availability Monitoring,Service availability monitoring
+ibmcloud,Monitoring,av_spyware_protection,Spyware protection monitoring
+ibmcloud,Monitoring,cdn_advanced_reporting,Advanced CDN reporting service
+ibmcloud,Monitoring,cdn_edge_performance_reporting,CDN edge performance reporting
+ibmcloud,Monitoring,cdn_live_event_monitoring,Live event monitoring for CDN
+ibmcloud,Monitoring,cdn_real_time_stats,Real-time CDN statistics
+ibmcloud,Monitoring,IBM Cloud Activity Tracker with LogDNA,Activity tracking with LogDNA
+ibmcloud,Monitoring,logdna,LogDNA logging service
+ibmcloud,Monitoring,logdnaat,LogDNA activity tracking
+ibmcloud,Monitoring,monitoring,General monitoring service
+ibmcloud,Monitoring,monitoring_package,Monitoring package service
+ibmcloud,Monitoring,monitoring_usage,Monitoring usage service
+ibmcloud,Monitoring,sysdig-monitor,Sysdig monitoring service
+ibmcloud,Monitoring,vulnerability_scanner,Vulnerability scanning service
+ibmcloud,Monitoring,web_analytics,Web analytics service
+ibmcloud,Monitoring,webstats,Web statistics service
+ibmcloud,Network,additional_nic,Additional network interface card service
+ibmcloud,Network,additional_public_vlan,Additional public VLAN service
+ibmcloud,Network,bandwidth,Bandwidth management service
+ibmcloud,Network,cdn_bandwidth,CDN bandwidth service
+ibmcloud,Network,cdn_bandwidth_asia,CDN bandwidth service for Asia
+ibmcloud,Network,cdn_bandwidth_asia_small,Small CDN bandwidth service for Asia
+ibmcloud,Network,cdn_bandwidth_small,Small CDN bandwidth service
+ibmcloud,Network,cdn_bandwidth_ssl,SSL CDN bandwidth service
+ibmcloud,Network,cdn_bandwidth_ssl_asia,SSL CDN bandwidth service for Asia
+ibmcloud,Network,cdn_bandwidth_ssl_asia_small,Small SSL CDN bandwidth service for Asia
+ibmcloud,Network,cdn_bandwidth_ssl_small,Small SSL CDN bandwidth service
+ibmcloud,Network,cdn_service_bandwidth,CDN service bandwidth management
+ibmcloud,Network,cdn_service_dynamic_bandwidth,Dynamic CDN service bandwidth management
+ibmcloud,Network,directlink,DirectLink network service
+ibmcloud,Network,DNS Services,DNS management services
+ibmcloud,Network,dns-svcs,DNS services
+ibmcloud,Network,domain,Domain management service
+ibmcloud,Network,domain_name_registration,Domain name registration service
+ibmcloud,Network,domain_reseller_credit,Domain reseller credit service
+ibmcloud,Network,firewall,Firewall service
+ibmcloud,Network,firewall_appliance,Firewall appliance service
+ibmcloud,Network,firewall_appliance_addon_antivirus,Antivirus addon for firewall appliance
+ibmcloud,Network,firewall_appliance_addon_bundle,Addon bundle for firewall appliance
+ibmcloud,Network,firewall_appliance_addon_next_gen_service,Next-gen service addon for firewall appliance
+ibmcloud,Network,firewall_appliance_addon_private_vlan,Private VLAN addon for firewall appliance
+ibmcloud,Network,firewall_appliance_addon_web_filter,Web filter addon for firewall appliance
+ibmcloud,Network,firewall_appliance_ha_pair,High availability pair for firewall appliance
+ibmcloud,Network,floating-ip,Floating IP service
+ibmcloud,Network,Floating IP for VPC,Floating IP service for VPC
+ibmcloud,Network,globalIp,Global IP service
+ibmcloud,Network,global_ipv4,Global IPv4 service
+ibmcloud,Network,global_ipv6,Global IPv6 service
+ibmcloud,Network,global_load_balancer,Global load balancer service
+ibmcloud,Network,iscsi,iSCSI storage service
+ibmcloud,Network,iscsi_snapshot_space,iSCSI snapshot space service
+ibmcloud,Network,Network,General network service
+ibmcloud,Network,network-acl,Network ACL service
+ibmcloud,Network,network_acl,Network ACL service
+ibmcloud,Network,network_adc,Network ADC service
+ibmcloud,Network,network_interconnect,Network interconnect service
+ibmcloud,Network,network_interconnect_routing,Network interconnect routing service
+ibmcloud,Network,network_message_delivery,Network message delivery service
+ibmcloud,Network,network_message_delivery_additional_emails,Additional emails for network message delivery
+ibmcloud,Network,network_tunnel,Network tunnel service
+ibmcloud,Network,network_vlan,Network VLAN service
+ibmcloud,Network,pcie_slot0,PCIe slot 0 service
+ibmcloud,Network,pcie_slot1,PCIe slot 1 service
+ibmcloud,Network,port_speed,Port speed management service
+ibmcloud,Network,port_speed_usage,Port speed usage service
+ibmcloud,Network,pri_ip_addresses,Primary IP addresses service
+ibmcloud,Network,pri_ipv6_addresses,Primary IPv6 addresses service
+ibmcloud,Network,public-gateway,Public gateway service
+ibmcloud,Network,public_port,Public port service
+ibmcloud,Network,sec_ip_addresses,Secondary IP addresses service
+ibmcloud,Network,security-group,Security group service
+ibmcloud,Network,security_group,Security group service
+ibmcloud,Network,service_port,Service port management
+ibmcloud,Network,sov_ipv6_addresses,Sovereign IPv6 addresses service
+ibmcloud,Network,sov_sec_ip_addresses,Sovereign secondary IP addresses service
+ibmcloud,Network,sov_sec_ip_addresses_priv,Private sovereign secondary IP addresses service
+ibmcloud,Network,sov_sec_ip_addresses_pub,Public sovereign secondary IP addresses service
+ibmcloud,Network,sriov_enabled,SR-IOV enabled service
+ibmcloud,Network,static_ipv6_addresses,Static IPv6 addresses service
+ibmcloud,Network,static_sec_ip_addresses,Static secondary IP addresses service
+ibmcloud,Network,subnet,Subnet management service
+ibmcloud,Network,vdr_member,VDR member service
+ibmcloud,Network,Virtual Private Cloud,Virtual Private Cloud service
+ibmcloud,Network,Virtual Private Endpoint for VPC,Virtual Private Endpoint service for VPC
+ibmcloud,Network,vlan_firewall,VLAN firewall service
+ibmcloud,Network,vpc,Virtual Private Cloud service
+ibmcloud,Network,vpn,VPN service
+ibmcloud,Network,VPN for VPC,VPN service for VPC
+ibmcloud,Network,vpn_management,VPN management service
+ibmcloud,Network,Transit Gateway,Transit gateway service
+ibmcloud,Other,bc_insurance,Insurance-related services
+ibmcloud,Other,discount,Discount services
+ibmcloud,Other,power_supply,Power supply services
+ibmcloud,Other,subscription_overage,Subscription overage charges
+ibmcloud,Other,support_overage,Support overage charges
+ibmcloud,Other,Unassociated Cost,Unassociated costs
+ibmcloud,Schematics workspaces,schematics,Infrastructure as Code service
+ibmcloud,Security,Certificate Manager,Manage SSL/TLS certificates
+ibmcloud,Security,cloudcerts,Cloud certificate services
+ibmcloud,Security,external_authentication,External authentication services
+ibmcloud,Security,intrusion_protection,Intrusion protection services
+ibmcloud,Security,key,Key management services
+ibmcloud,Security,kms,Key management system
+ibmcloud,Security,security-advisor,Security advisory services
+ibmcloud,Security,ssl_certificate,SSL certificate management
+ibmcloud,Service,aiopenscale,AI lifecycle management
+ibmcloud,Service,api-gateway,API gateway services
+ibmcloud,Service,App Connect,Application integration services
+ibmcloud,Service,appid,App ID services
+ibmcloud,Service,cdn_custom_ssl_certificate,Custom SSL certificate for CDN
+ibmcloud,Service,cdn_hosted_ssl_san_certificate,Hosted SSL SAN certificate for CDN
+ibmcloud,Service,cdn_rules_engine,CDN rules engine
+ibmcloud,Service,cdn_service_account,CDN service account management
+ibmcloud,Service,cdn_storage,CDN storage services
+ibmcloud,Service,cdn_token_authentication,CDN token authentication
+ibmcloud,Service,cdn_vod_transmuxing,CDN VOD transmuxing
+ibmcloud,Service,cldamqp,Cloud AMQP services
+ibmcloud,Service,Cloudant,NoSQL database services
+ibmcloud,Service,cloudantnosqldb,NoSQL database services
+ibmcloud,Service,codeengine,Code engine services
+ibmcloud,Service,Compose for MongoDB,Managed MongoDB services
+ibmcloud,Service,Compose for MySQL,Managed MySQL services
+ibmcloud,Service,Compose for RabbitMQ,Managed RabbitMQ services
+ibmcloud,Service,consult-with-icg-wes,Consulting services
+ibmcloud,Service,continuous-delivery,Continuous delivery services
+ibmcloud,Service,Continuous Delivery,Continuous delivery services
+ibmcloud,Service,control_panel,Control panel services
+ibmcloud,Service,conversation,Conversation services
+ibmcloud,Service,data-science-experience,Data science platform
+ibmcloud,Service,DevOps Insights,DevOps insights services
+ibmcloud,Service,discovery,Discovery services
+ibmcloud,Service,endpoint-gateway,Endpoint gateway services
+ibmcloud,Service,Event Streams,Event streaming services
+ibmcloud,Service,flow-log-collector,Flow log collection services
+ibmcloud,Service,functions,Serverless functions
+ibmcloud,Service,hpvs,High performance virtual servers
+ibmcloud,Service,hs-crypto,High security crypto services
+ibmcloud,Service,Hyper Protect Crypto Services,High security crypto services
+ibmcloud,Service,IBM Cloud Platform Runtime,Cloud platform runtime services
+ibmcloud,Service,IBM-Performance-Hub-1.0,Performance hub services
+ibmcloud,Service,iotf-service,Internet of Things services
+ibmcloud,Service,mass_data_migration_request,Mass data migration services
+ibmcloud,Service,messagehub,Message hub services
+ibmcloud,Service,message_queuing,Message queuing services
+ibmcloud,Service,message_queuing_delivery,Message queuing delivery services
+ibmcloud,Service,messages-for-rabbitmq,Managed RabbitMQ services
+ibmcloud,Service,Messages for RabbitMQ,Managed RabbitMQ services
+ibmcloud,Service,notification,Notification services
+ibmcloud,Service,object_storage_archive_storage,Object storage archive services
+ibmcloud,Service,OpenWhisk Service Broker Display Name,Serverless service broker
+ibmcloud,Service,paas_svc_plan,Platform as a Service plan
+ibmcloud,Service,paas_svc_plan_access_trail,Access trail services
+ibmcloud,Service,paas_svc_plan_active_deploy,Active deployment services
+ibmcloud,Service,paas_svc_plan_alchemyapi,AlchemyAPI services
+ibmcloud,Service,paas_svc_plan_apache_hadoop,Apache Hadoop services
+ibmcloud,Service,paas_svc_plan_apache_spark,Apache Spark services
+ibmcloud,Service,paas_svc_plan_apersona_asm,Apersona ASM services
+ibmcloud,Service,paas_svc_plan_api_connect,API Connect services
+ibmcloud,Service,paas_svc_plan_api_harmony,API Harmony services
+ibmcloud,Service,paas_svc_plan_api_management,API management services
+ibmcloud,Service,paas_svc_plan_api_pitney_bowes,API Pitney Bowes services
+ibmcloud,Service,paas_svc_plan_appconnect,AppConnect services
+ibmcloud,Service,paas_svc_plan_apprenda_cloud_platform,Apprenda cloud platform services
+ibmcloud,Service,paas_svc_plan_appscan_analyzer,AppScan analyzer services
+ibmcloud,Service,paas_svc_plan_appscan_mobile_analyzer,AppScan mobile analyzer services
+ibmcloud,Service,paas_svc_plan_app_security_on_cloud,App security on cloud services
+ibmcloud,Service,paas_svc_plan_asp_net_5,ASP.NET 5 services
+ibmcloud,Service,paas_svc_plan_asp_net_core,ASP.NET Core services
+ibmcloud,Service,paas_svc_plan_att,AT&T services
+ibmcloud,Service,paas_svc_plan_auto_access_tester,Auto access tester services
+ibmcloud,Service,paas_svc_plan_autoscaling,Autoscaling services
+ibmcloud,Service,paas_svc_plan_availability_monitoring,Availability monitoring services
+ibmcloud,Service,paas_svc_plan_blazemeter,Blazemeter services
+ibmcloud,Service,paas_svc_plan_blockchain,Blockchain services
+ibmcloud,Service,paas_svc_plan_block_storage,Block storage services
+ibmcloud,Service,paas_svc_plan_bm_liberty_for_java,Liberty for Java services
+ibmcloud,Service,paas_svc_plan_bm_node_js,Node.js services
+ibmcloud,Service,paas_svc_plan_bm_platform_runtime,Platform runtime services
+ibmcloud,Service,paas_svc_plan_box,Box services
+ibmcloud,Service,paas_svc_plan_business_rules,Business rules services
+ibmcloud,Service,paas_svc_plan_cdn,CDN services
+ibmcloud,Service,paas_svc_plan_cleardb_mysql_db,ClearDB MySQL services
+ibmcloud,Service,paas_svc_plan_cloudamqp,CloudAMQP services
+ibmcloud,Service,paas_svc_plan_cloudant_nosql_db,Cloudant NoSQL DB services
+ibmcloud,Service,paas_svc_plan_cloud_integration,Cloud integration services
+ibmcloud,Service,paas_svc_plan_cloud_management,Cloud management services
+ibmcloud,Service,paas_svc_plan_cloud_object_storage,Cloud object storage services
+ibmcloud,Service,paas_svc_plan_common_service_broker,Common service broker
+ibmcloud,Service,paas_svc_plan_compose_enterprise,Compose enterprise services
+ibmcloud,Service,paas_svc_plan_concept_expansion,Concept expansion services
+ibmcloud,Service,paas_svc_plan_concept_insights,Concept insights services
+ibmcloud,Service,paas_svc_plan_connect_compose,Connect Compose services
+ibmcloud,Service,paas_svc_plan_container_registry,Container registry services
+ibmcloud,Service,paas_svc_plan_containers,Container services
+ibmcloud,Service,paas_svc_plan_context_mapping,Context mapping services
+ibmcloud,Service,paas_svc_plan_continuous_delivery,Continuous delivery services
+ibmcloud,Service,paas_svc_plan_conversation,Conversation services
+ibmcloud,Service,paas_svc_plan_cupenya_insights,Cupenya insights services
+ibmcloud,Service,paas_svc_plan_dashdb,DashDB services
+ibmcloud,Service,paas_svc_plan_data_cache,Data cache services
+ibmcloud,Service,paas_svc_plan_data_science_experience,Data science experience services
+ibmcloud,Service,paas_svc_plan_dataworks,Dataworks services
+ibmcloud,Service,paas_svc_plan_db2,DB2 services
+ibmcloud,Service,paas_svc_plan_db2_warehouse,DB2 warehouse services
+ibmcloud,Service,paas_svc_plan_decision_automation,Decision automation services
+ibmcloud,Service,paas_svc_plan_decision_optimization,Decision optimization services
+ibmcloud,Service,paas_svc_plan_delivery_pipeline,Delivery pipeline services
+ibmcloud,Service,paas_svc_plan_devops_insights,DevOps insights services
+ibmcloud,Service,paas_svc_plan_dialog,Dialog services
+ibmcloud,Service,paas_svc_plan_diffusion_cloud,Diffusion cloud services
+ibmcloud,Service,paas_svc_plan_digital_content_checker,Digital content checker services
+ibmcloud,Service,paas_svc_plan_discovery,Discovery services
+ibmcloud,Service,paas_svc_plan_document_conversion,Document conversion services
+ibmcloud,Service,paas_svc_plan_document_generation,Document generation services
+ibmcloud,Service,paas_svc_plan_dreamface,Dreamface services
+ibmcloud,Service,paas_svc_plan_driver_behavior,Driver behavior services
+ibmcloud,Service,paas_svc_plan_elasticsearch,Elasticsearch services
+ibmcloud,Service,paas_svc_plan_elephantsql,ElephantSQL services
+ibmcloud,Service,paas_svc_plan_embeddable_reporting,Embeddable reporting services
+ibmcloud,Service,paas_svc_plan_etcd,Etcd services
+ibmcloud,Service,paas_svc_plan_event_hub,Event Hub service for real-time data streaming.
+ibmcloud,Service,paas_svc_plan_feat,Feature service for various enhancements.
+ibmcloud,Service,paas_svc_plan_feat_apache_spark,Apache Spark service for big data processing.
+ibmcloud,Service,paas_svc_plan_feat_api_connect,API Connect service for managing APIs.
+ibmcloud,Service,paas_svc_plan_feat_app_security_on_cloud,Application security service on cloud.
+ibmcloud,Service,paas_svc_plan_feat_asp_net_5,ASP.NET 5 service for web applications.
+ibmcloud,Service,paas_svc_plan_feat_asp_net_core,ASP.NET Core service for cross-platform web applications.
+ibmcloud,Service,paas_svc_plan_feat_autoscaling,Autoscaling service for dynamic resource management.
+ibmcloud,Service,paas_svc_plan_feat_availability_monitoring,Availability monitoring service for uptime tracking.
+ibmcloud,Service,paas_svc_plan_feat_blazemeter,BlazeMeter service for performance testing.
+ibmcloud,Service,paas_svc_plan_feat_blockchain,Blockchain service for distributed ledger technology.
+ibmcloud,Service,paas_svc_plan_feat_bm_liberty_for_java,Liberty for Java service for Java applications.
+ibmcloud,Service,paas_svc_plan_feat_bm_node_js,Node.js service for JavaScript runtime.
+ibmcloud,Service,paas_svc_plan_feat_bm_platform_runtime,Platform runtime service for various environments.
+ibmcloud,Service,paas_svc_plan_feat_cloudant_nosql_db,Cloudant NoSQL DB service for database management.
+ibmcloud,Service,paas_svc_plan_feat_cloud_management,Cloud management service for resource control.
+ibmcloud,Service,paas_svc_plan_feat_cloud_object_storage,Cloud Object Storage service for scalable storage.
+ibmcloud,Service,paas_svc_plan_feat_container_registry,Container registry service for managing container images.
+ibmcloud,Service,paas_svc_plan_feat_containers,Containers service for containerized applications.
+ibmcloud,Service,paas_svc_plan_feat_continuous_delivery,Continuous delivery service for automated deployments.
+ibmcloud,Service,paas_svc_plan_feat_conversation,Conversation service for building chatbots.
+ibmcloud,Service,paas_svc_plan_feat_dashdb,DashDB service for data warehousing.
+ibmcloud,Service,paas_svc_plan_feat_data_science_experience,Data Science Experience service for data analysis.
+ibmcloud,Service,paas_svc_plan_feat_db2_warehouse,DB2 Warehouse service for data storage.
+ibmcloud,Service,paas_svc_plan_feat_devops_insights,DevOps Insights service for development metrics.
+ibmcloud,Service,paas_svc_plan_feat_discovery,Discovery service for data exploration.
+ibmcloud,Service,paas_svc_plan_feat_etcd,Etcd service for distributed key-value store.
+ibmcloud,Service,paas_svc_plan_feat_geospatial_analytics,Geospatial Analytics service for spatial data analysis.
+ibmcloud,Service,paas_svc_plan_feat_ibm_containers,IBM Containers service for container orchestration.
+ibmcloud,Service,paas_svc_plan_feat_ibm_push_notifications,IBM Push Notifications service for mobile alerts.
+ibmcloud,Service,paas_svc_plan_feat_insights_for_weather,Insights for Weather service for weather data.
+ibmcloud,Service,paas_svc_plan_feat_iot_platform,IoT Platform service for Internet of Things.
+ibmcloud,Service,paas_svc_plan_feat_janusgraph,JanusGraph service for graph database.
+ibmcloud,Service,paas_svc_plan_feat_key_protect,Key Protect service for key management.
+ibmcloud,Service,paas_svc_plan_feat_kubernetes_cluster,Kubernetes Cluster service for container orchestration.
+ibmcloud,Service,paas_svc_plan_feat_log_analysis,Log Analysis service for log management.
+ibmcloud,Service,paas_svc_plan_feat_machine_learning,Machine Learning service for AI models.
+ibmcloud,Service,paas_svc_plan_feat_message_hub,Message Hub service for messaging.
+ibmcloud,Service,paas_svc_plan_feat_mobile_analytics,Mobile Analytics service for mobile data analysis.
+ibmcloud,Service,paas_svc_plan_feat_mobile_client_access,Mobile Client Access service for mobile backend.
+ibmcloud,Service,paas_svc_plan_feat_mongodb,MongoDB service for NoSQL database.
+ibmcloud,Service,paas_svc_plan_feat_mysql,MySQL service for relational database.
+ibmcloud,Service,paas_svc_plan_feat_natural_language,Natural Language service for text analysis.
+ibmcloud,Service,paas_svc_plan_feat_new_relic,New Relic service for application performance monitoring.
+ibmcloud,Service,paas_svc_plan_feat_openwhisk,OpenWhisk service for serverless computing.
+ibmcloud,Service,paas_svc_plan_feat_personality_insights,Personality Insights service for personality analysis.
+ibmcloud,Service,paas_svc_plan_feat_postgresql,PostgreSQL service for relational database.
+ibmcloud,Service,paas_svc_plan_feat_predictive_analytics,Predictive Analytics service for data predictions.
+ibmcloud,Service,paas_svc_plan_feat_rabbitmq,RabbitMQ service for messaging.
+ibmcloud,Service,paas_svc_plan_feat_redis,Redis service for in-memory data store.
+ibmcloud,Service,paas_svc_plan_feat_runtime_swift,Runtime Swift service for Swift applications.
+ibmcloud,Service,paas_svc_plan_feat_scylladb,ScyllaDB service for NoSQL database.
+ibmcloud,Service,paas_svc_plan_feat_secure_gateway,Secure Gateway service for secure connections.
+ibmcloud,Service,paas_svc_plan_feat_speech_to_text,Speech to Text service for speech recognition.
+ibmcloud,Service,paas_svc_plan_feat_testdroid,Testdroid service for mobile testing.
+ibmcloud,Service,paas_svc_plan_feat_text_to_speech,Text to Speech service for speech synthesis.
+ibmcloud,Service,paas_svc_plan_feat_tone_analyzer,Tone Analyzer service for sentiment analysis.
+ibmcloud,Service,paas_svc_plan_feat_usage,Usage service for usage tracking.
+ibmcloud,Service,paas_svc_plan_feat_usage_bm_node_js,Usage service for Node.js applications.
+ibmcloud,Service,paas_svc_plan_feat_usage_cloudant_nosql_db,Usage service for Cloudant NoSQL DB.
+ibmcloud,Service,paas_svc_plan_feat_usage_cloud_object_storage,Usage service for Cloud Object Storage.
+ibmcloud,Service,paas_svc_plan_feat_usage_container_registry,Usage service for Container Registry.
+ibmcloud,Service,paas_svc_plan_feat_usage_continuous_delivery,Usage service for Continuous Delivery.
+ibmcloud,Service,paas_svc_plan_feat_usage_etcd,Usage service for Etcd.
+ibmcloud,Service,paas_svc_plan_feat_usage_kubernetes_cluster,Usage service for Kubernetes Cluster.
+ibmcloud,Service,paas_svc_plan_feat_usage_message_hub,Usage service for Message Hub.
+ibmcloud,Service,paas_svc_plan_feat_usage_mongodb,Usage service for MongoDB.
+ibmcloud,Service,paas_svc_plan_feat_usage_mysql,Usage service for MySQL.
+ibmcloud,Service,paas_svc_plan_feat_usage_rabbitmq,Usage service for RabbitMQ.
+ibmcloud,Service,paas_svc_plan_feat_visual_recognition,Visual Recognition service for image analysis.
+ibmcloud,Service,paas_svc_plan_feat_workload_scheduler,Workload Scheduler service for job scheduling.
+ibmcloud,Service,paas_svc_plan_flowthings_io,Flowthings.io service for IoT data flow.
+ibmcloud,Service,paas_svc_plan_gamification,Gamification service for game mechanics.
+ibmcloud,Service,paas_svc_plan_geocoding,Geocoding service for address conversion.
+ibmcloud,Service,paas_svc_plan_geospatial_analytics,Geospatial Analytics service for spatial data analysis.
+ibmcloud,Service,paas_svc_plan_globalization_pipelin,Globalization Pipeline service for translation.
+ibmcloud,Service,paas_svc_plan_hiptest,Hiptest is a continuous testing platform for Agile and DevOps teams.
+ibmcloud,Service,paas_svc_plan_hybrid_connect,Hybrid Connect provides secure connectivity between on-premises and cloud environments.
+ibmcloud,Service,paas_svc_plan_ibm_alert_notification,IBM Alert Notification helps manage and respond to alerts from various sources.
+ibmcloud,Service,paas_svc_plan_ibm_containers,IBM Containers provides a managed Kubernetes service for deploying containerized applications.
+ibmcloud,Service,paas_svc_plan_ibm_graph,IBM Graph is a fully managed graph database service.
+ibmcloud,Service,paas_svc_plan_ibm_identity_mixer,IBM Identity Mixer provides privacy-preserving authentication.
+ibmcloud,Service,paas_svc_plan_ibm_push_notifications,IBM Push Notifications enables sending push notifications to mobile devices.
+ibmcloud,Service,paas_svc_plan_insights_for_twitter,Insights for Twitter provides analytics and insights from Twitter data.
+ibmcloud,Service,paas_svc_plan_insights_for_weather,Insights for Weather provides weather data and analytics.
+ibmcloud,Service,paas_svc_plan_instrument_analytics,Instrument Analytics offers tools for monitoring and analyzing application performance.
+ibmcloud,Service,paas_svc_plan_integration_testing,Integration Testing provides tools for testing integrations between services.
+ibmcloud,Service,paas_svc_plan_investment_portfolio,Investment Portfolio offers tools for managing and analyzing investment portfolios.
+ibmcloud,Service,paas_svc_plan_iot_automotive,IoT Automotive provides IoT solutions for the automotive industry.
+ibmcloud,Service,paas_svc_plan_iot_for_electronics,IoT for Electronics offers IoT solutions for electronic devices.
+ibmcloud,Service,paas_svc_plan_iot_for_insurance,IoT for Insurance provides IoT solutions for the insurance industry.
+ibmcloud,Service,paas_svc_plan_iot_platform,IoT Platform is a managed service for connecting and managing IoT devices.
+ibmcloud,Service,paas_svc_plan_iot_realtime_insights,IoT Realtime Insights provides real-time analytics for IoT data.
+ibmcloud,Service,paas_svc_plan_iot_workbench,IoT Workbench offers tools for developing and testing IoT applications.
+ibmcloud,Service,paas_svc_plan_iqp_iot_codefree_app_dev,IQP IoT Codefree App Dev enables building IoT applications without coding.
+ibmcloud,Service,paas_svc_plan_janusgraph,JanusGraph is a scalable graph database optimized for storing and querying large graphs.
+ibmcloud,Service,paas_svc_plan_jkool,jKool provides real-time analytics and monitoring for applications.
+ibmcloud,Service,paas_svc_plan_key_protect,Key Protect is a managed service for creating and managing encryption keys.
+ibmcloud,Service,paas_svc_plan_kinetise,Kinetise enables building mobile applications without coding.
+ibmcloud,Service,paas_svc_plan_kubernetes_cluster,Kubernetes Cluster provides a managed Kubernetes service for deploying containerized applications.
+ibmcloud,Service,paas_svc_plan_language_translation,Language Translation offers machine translation services for multiple languages.
+ibmcloud,Service,paas_svc_plan_language_translator,Language Translator provides real-time translation services.
+ibmcloud,Service,paas_svc_plan_lift,Lift is a data migration service for moving data to the cloud.
+ibmcloud,Service,paas_svc_plan_load_impact,Load Impact provides tools for load testing applications.
+ibmcloud,Service,paas_svc_plan_log_analysis,Log Analysis offers tools for analyzing and visualizing log data.
+ibmcloud,Service,paas_svc_plan_machine_learning,Machine Learning provides tools and services for building and deploying machine learning models.
+ibmcloud,Service,paas_svc_plan_memcached_cloud,Memcached Cloud is a managed service for deploying Memcached instances.
+ibmcloud,Service,paas_svc_plan_message_connect,Message Connect provides tools for integrating messaging services.
+ibmcloud,Service,paas_svc_plan_message_hub,Message Hub is a managed Kafka service for building real-time data pipelines.
+ibmcloud,Service,paas_svc_plan_message_hub_incubator,Message Hub Incubator offers experimental features for the Message Hub service.
+ibmcloud,Service,paas_svc_plan_mobile_analytics,Mobile Analytics provides tools for analyzing mobile application usage.
+ibmcloud,Service,paas_svc_plan_mobile_app_builder,Mobile App Builder enables building mobile applications with a visual interface.
+ibmcloud,Service,paas_svc_plan_mobile_app_content_mgr,Mobile App Content Manager provides tools for managing mobile application content.
+ibmcloud,Service,paas_svc_plan_mobile_client_access,Mobile Client Access offers tools for securing and managing mobile application access.
+ibmcloud,Service,paas_svc_plan_mobile_data,Mobile Data provides tools for managing mobile application data.
+ibmcloud,Service,paas_svc_plan_mobile_foundation,Mobile Foundation offers a comprehensive platform for building and managing mobile applications.
+ibmcloud,Service,paas_svc_plan_mobile_quality_assurance,Mobile Quality Assurance provides tools for testing and ensuring the quality of mobile applications.
+ibmcloud,Service,paas_svc_plan_mobile_quality_extensions,Mobile Quality Extensions offers additional tools for mobile application testing.
+ibmcloud,Service,paas_svc_plan_mongodb,IBM MongoDB is a managed service for deploying MongoDB instances.
+ibmcloud,Service,paas_svc_plan_mongolab,MongoLab provides a fully managed MongoDB service.
+ibmcloud,Service,paas_svc_plan_moni_ai,Moni.ai offers tools for building and deploying AI-powered applications.
+ibmcloud,Service,paas_svc_plan_monitoring_and_analytics,Monitoring and Analytics provides tools for monitoring and analyzing application performance.
+ibmcloud,Service,paas_svc_plan_mq_light,MQ Light is a lightweight messaging service for building real-time applications.
+ibmcloud,Service,paas_svc_plan_mysql,IBM MySQL is a managed service for deploying MySQL instances.
+ibmcloud,Service,paas_svc_plan_namara_io_catalog,Namara.io Catalog provides access to a catalog of public data sets.
+ibmcloud,Service,paas_svc_plan_nat_lang_class,Natural Language Classifier offers tools for building natural language processing models.
+ibmcloud,Service,paas_svc_plan_natural_data,Natural Data provides tools for analyzing and visualizing natural language data.
+ibmcloud,Service,paas_svc_plan_natural_language,Natural Language offers tools for building natural language processing applications.
+ibmcloud,Service,paas_svc_plan_network_security_groups,Network Security Groups provides tools for managing network security policies.
+ibmcloud,Service,paas_svc_plan_new_relic,New Relic offers tools for monitoring and analyzing application performance.
+ibmcloud,Service,paas_svc_plan_object_storage,Object Storage is a scalable storage service for storing and retrieving unstructured data.
+ibmcloud,Service,paas_svc_plan_openwhisk,OpenWhisk is a serverless platform for building and deploying event-driven applications.
+ibmcloud,Service,paas_svc_plan_operations_analytics,Operations Analytics provides tools for analyzing and optimizing IT operations.
+ibmcloud,Service,paas_svc_plan_personality_insights,Personality Insights offers tools for analyzing personality traits from text data.
+ibmcloud,Service,paas_svc_plan_postgresql,IBM PostgreSQL is a managed service for deploying PostgreSQL instances.
+ibmcloud,Service,paas_svc_plan_predictive_analytics,Predictive Analytics provides tools for building and deploying predictive models.
+ibmcloud,Service,paas_svc_plan_presence_insights,Presence Insights offers tools for analyzing and optimizing physical space usage.
+ibmcloud,Service,paas_svc_plan_probabilistic_match,Probabilistic Match provides tools for matching and linking data records.
+ibmcloud,Service,paas_svc_plan_product_insights,Product Insights offers tools for analyzing and optimizing product performance.
+ibmcloud,Service,paas_svc_plan_pubnub,PubNub is a real-time messaging service for building real-time applications.
+ibmcloud,Service,paas_svc_plan_push,Push provides tools for sending push notifications to mobile devices.
+ibmcloud,Service,paas_svc_plan_qa,QA offers tools for testing and ensuring the quality of applications.
+ibmcloud,Service,paas_svc_plan_rabbitmq,RabbitMQ is a managed service for deploying RabbitMQ instances.
+ibmcloud,Service,paas_svc_plan_reappt_from_push_tech,Reappt from Push Technology provides tools for building real-time applications.
+ibmcloud,Service,paas_svc_plan_redis,IBM Redis is a managed service for deploying Redis instances.
+ibmcloud,Service,paas_svc_plan_redis_cloud,Redis Cloud provides a fully managed Redis service.
+ibmcloud,Service,paas_svc_plan_relationship_extraction,Relationship Extraction offers tools for extracting relationships from text data.
+ibmcloud,Service,paas_svc_plan_rethinkdb,RethinkDB is a managed service for deploying RethinkDB instances.
+ibmcloud,Service,paas_svc_plan_retrieve_and_rank,Retrieve and Rank provides tools for building search and ranking applications.
+ibmcloud,Service,paas_svc_plan_reverse_geocoding,Reverse Geocoding offers tools for converting geographic coordinates to addresses.
+ibmcloud,Service,paas_svc_plan_rocket_mainframe_data,Rocket Mainframe Data provides tools for accessing and analyzing mainframe data.
+ibmcloud,Service,paas_svc_plan_runbook_automation,Runbook Automation offers tools for automating IT operations tasks.
+ibmcloud,Service,paas_svc_plan_runtime_swift,Runtime Swift provides a managed runtime environment for Swift applications.
+ibmcloud,Service,paas_svc_plan_scylladb,ScyllaDB is a managed service for deploying ScyllaDB instances.
+ibmcloud,Service,paas_svc_plan_searchly,Searchly provides a fully managed Elasticsearch service.
+ibmcloud,Service,paas_svc_plan_secure_gateway,Secure Gateway offers tools for securely connecting on-premises and cloud environments.
+ibmcloud,Service,paas_svc_plan_sendgrid,SendGrid provides tools for sending and managing email communications.
+ibmcloud,Service,paas_svc_plan_service_discovery,Service Discovery offers tools for discovering and managing microservices.
+ibmcloud,Service,paas_svc_plan_service_proxy,Service Proxy provides tools for managing and securing API traffic.
+ibmcloud,Service,paas_svc_plan_session_cache,In-memory data caching service
+ibmcloud,Service,paas_svc_plan_simplicite_apaas,Application platform as a service
+ibmcloud,Service,paas_svc_plan_single_sign_on,Single sign-on authentication service
+ibmcloud,Service,paas_svc_plan_speech_to_text,Convert speech to text
+ibmcloud,Service,paas_svc_plan_sql_db,Managed SQL database service
+ibmcloud,Service,paas_svc_plan_statica,Static content hosting service
+ibmcloud,Service,paas_svc_plan_streaming_analytics,Real-time data analytics
+ibmcloud,Service,paas_svc_plan_testdroid,Mobile app testing service
+ibmcloud,Service,paas_svc_plan_text_to_speech,Convert text to speech
+ibmcloud,Service,paas_svc_plan_time_series_database,Time series data storage
+ibmcloud,Service,paas_svc_plan_tinyqueries,Simple query service
+ibmcloud,Service,paas_svc_plan_tone_analyzer,Analyze tone in text
+ibmcloud,Service,paas_svc_plan_track_plan,Project tracking service
+ibmcloud,Service,paas_svc_plan_tradeoff_analytics,Decision-making analytics
+ibmcloud,Service,paas_svc_plan_travel_boundary_service,Travel boundary service
+ibmcloud,Service,paas_svc_plan_twilio,Communication APIs
+ibmcloud,Service,paas_svc_plan_ustream,Live video streaming
+ibmcloud,Service,paas_svc_plan_validate_address,Address validation service
+ibmcloud,Service,paas_svc_plan_vantrix_transcoder,Media transcoding service
+ibmcloud,Service,paas_svc_plan_virtual_server,Virtual server hosting
+ibmcloud,Service,paas_svc_plan_visual_insights,Visual data analysis
+ibmcloud,Service,paas_svc_plan_visual_recognition,Image recognition service
+ibmcloud,Service,paas_svc_plan_vpn,Virtual private network service
+ibmcloud,Service,paas_svc_plan_watson_studio,Data science and AI tools
+ibmcloud,Service,paas_svc_plan_websphere_app_server,Application server hosting
+ibmcloud,Service,paas_svc_plan_workflow,Workflow automation service
+ibmcloud,Service,paas_svc_plan_workload_scheduler,Job scheduling service
+ibmcloud,Service,paas_svc_plan_xpages_nosql_db,NoSQL database service
+ibmcloud,Service,paas_svc_plan_zos,Mainframe service
+ibmcloud,Service,pass_svc_plan_feat_kubernetes_cluster,Managed Kubernetes clusters
+ibmcloud,Service,pass_svc_plan_kubernetes_cluster,Managed Kubernetes clusters
+ibmcloud,Service,paas_svc_plan_feat_usage_key_protect,Key management service
+ibmcloud,Service,portworx,Container storage service
+ibmcloud,Service,Power Systems Virtual Server,Virtual servers on Power Systems
+ibmcloud,Service,SDK for Node.js™,Node.js development tools
+ibmcloud,Service,service,General service
+ibmcloud,Service,service_instance,Service instance management
+ibmcloud,Service,speech-to-text,Convert speech to text
+ibmcloud,Service,toolchain,DevOps toolchain
+ibmcloud,Service,transit,Transit service
+ibmcloud,Service,Unattached Services,Unattached services
+ibmcloud,Service,Watson Assistant,AI-powered chatbot
+ibmcloud,Service,Watson OpenScale,AI model management
+ibmcloud,Service,watson-vision-combined,Combined visual recognition services
+ibmcloud,Service,Watson Discovery,AI-powered search and content analytics
+ibmcloud,Software,anti_virus,Antivirus software
+ibmcloud,Software,billing_package,Billing management software
+ibmcloud,Storage,Block Storage for VPC,Block storage for virtual private cloud
+ibmcloud,Storage,cdp_backup,Cloud data protection backup
+ibmcloud,Storage,cloud-object-storage,Object storage service
+ibmcloud,Storage,Cloud Object Storage,Object storage service
+ibmcloud,Storage,dedicated_host_disk,Disk storage for dedicated hosts
+ibmcloud,Storage,disk0,General disk storage
+ibmcloud,Storage,disk1,General disk storage
+ibmcloud,Storage,disk10,General disk storage
+ibmcloud,Storage,disk11,General disk storage
+ibmcloud,Storage,disk12,General disk storage
+ibmcloud,Storage,disk13,General disk storage
+ibmcloud,Storage,disk14,General disk storage
+ibmcloud,Storage,disk15,General disk storage
+ibmcloud,Storage,disk16,General disk storage
+ibmcloud,Storage,disk17,General disk storage
+ibmcloud,Storage,disk18,General disk storage
+ibmcloud,Storage,disk19,General disk storage
+ibmcloud,Storage,disk2,General disk storage
+ibmcloud,Storage,disk20,General disk storage
+ibmcloud,Storage,disk21,General disk storage
+ibmcloud,Storage,disk22,General disk storage
+ibmcloud,Storage,disk23,General disk storage
+ibmcloud,Storage,disk24,General disk storage
+ibmcloud,Storage,disk25,General disk storage
+ibmcloud,Storage,disk26,General disk storage
+ibmcloud,Storage,disk27,General disk storage
+ibmcloud,Storage,disk28,General disk storage
+ibmcloud,Storage,disk29,General disk storage
+ibmcloud,Storage,disk3,General disk storage
+ibmcloud,Storage,disk30,General disk storage
+ibmcloud,Storage,disk31,General disk storage
+ibmcloud,Storage,disk32,General disk storage
+ibmcloud,Storage,disk33,General disk storage
+ibmcloud,Storage,disk34,General disk storage
+ibmcloud,Storage,disk35,General disk storage
+ibmcloud,Storage,disk36,General disk storage
+ibmcloud,Storage,disk37,General disk storage
+ibmcloud,Storage,disk38,General disk storage
+ibmcloud,Storage,disk39,General disk storage
+ibmcloud,Storage,disk4,General disk storage
+ibmcloud,Storage,disk40,General disk storage
+ibmcloud,Storage,disk41,General disk storage
+ibmcloud,Storage,disk42,General disk storage
+ibmcloud,Storage,disk43,General disk storage
+ibmcloud,Storage,disk44,General disk storage
+ibmcloud,Storage,disk45,General disk storage
+ibmcloud,Storage,disk46,General disk storage
+ibmcloud,Storage,disk47,General disk storage
+ibmcloud,Storage,disk48,General disk storage
+ibmcloud,Storage,disk49,General disk storage
+ibmcloud,Storage,disk5,General disk storage
+ibmcloud,Storage,disk50,General disk storage
+ibmcloud,Storage,disk51,General disk storage
+ibmcloud,Storage,disk52,General disk storage
+ibmcloud,Storage,disk53,General disk storage
+ibmcloud,Storage,disk54,General disk storage
+ibmcloud,Storage,disk55,General disk storage
+ibmcloud,Storage,disk56,General disk storage
+ibmcloud,Storage,disk57,General disk storage
+ibmcloud,Storage,disk58,General disk storage
+ibmcloud,Storage,disk59,General disk storage
+ibmcloud,Storage,disk6,General disk storage
+ibmcloud,Storage,disk60,General disk storage
+ibmcloud,Storage,disk61,General disk storage
+ibmcloud,Storage,disk62,General disk storage
+ibmcloud,Storage,disk63,General disk storage
+ibmcloud,Storage,disk64,General disk storage
+ibmcloud,Storage,disk65,General disk storage
+ibmcloud,Storage,disk66,General disk storage
+ibmcloud,Storage,disk67,General disk storage
+ibmcloud,Storage,disk68,General disk storage
+ibmcloud,Storage,disk69,General disk storage
+ibmcloud,Storage,disk7,General disk storage
+ibmcloud,Storage,disk70,General disk storage
+ibmcloud,Storage,disk71,General disk storage
+ibmcloud,Storage,disk72,General disk storage
+ibmcloud,Storage,disk73,General disk storage
+ibmcloud,Storage,disk74,General disk storage
+ibmcloud,Storage,disk75,General disk storage
+ibmcloud,Storage,disk76,General disk storage
+ibmcloud,Storage,disk77,General disk storage
+ibmcloud,Storage,disk78,General disk storage
+ibmcloud,Storage,disk79,General disk storage
+ibmcloud,Storage,disk8,General disk storage
+ibmcloud,Storage,disk80,General disk storage
+ibmcloud,Storage,disk81,General disk storage
+ibmcloud,Storage,disk82,General disk storage
+ibmcloud,Storage,disk83,General disk storage
+ibmcloud,Storage,disk84,General disk storage
+ibmcloud,Storage,disk85,General disk storage
+ibmcloud,Storage,disk86,General disk storage
+ibmcloud,Storage,disk87,General disk storage
+ibmcloud,Storage,disk88,General disk storage
+ibmcloud,Storage,disk89,General disk storage
+ibmcloud,Storage,disk9,General disk storage
+ibmcloud,Storage,disk90,General disk storage
+ibmcloud,Storage,disk91,General disk storage
+ibmcloud,Storage,disk92,General disk storage
+ibmcloud,Storage,disk93,General disk storage
+ibmcloud,Storage,disk94,General disk storage
+ibmcloud,Storage,disk95,General disk storage
+ibmcloud,Storage,disk96,General disk storage
+ibmcloud,Storage,disk97,General disk storage
+ibmcloud,Storage,disk98,General disk storage
+ibmcloud,Storage,disk99,General disk storage
+ibmcloud,Storage,disk_controller,Manages disk operations
+ibmcloud,Storage,disk_controller1,Manages disk operations
+ibmcloud,Storage,disk_controller2,Manages disk operations
+ibmcloud,Storage,evault,Cloud-based backup solution
+ibmcloud,Storage,evault_plugin,Plugin for eVault backup
+ibmcloud,Storage,hub,Centralized storage hub
+ibmcloud,Storage,hub_bandwidth,Manages hub bandwidth
+ibmcloud,Storage,hub_bandwidth_usage,Tracks hub bandwidth usage
+ibmcloud,Storage,hub_storage_usage,Tracks hub storage usage
+ibmcloud,Storage,nas,Network-attached storage
+ibmcloud,Storage,object_storage,Scalable object storage
+ibmcloud,Storage,object_storage_archive_restore,Restores archived object storage
+ibmcloud,Storage,object_storage_bandwidth,Manages object storage bandwidth
+ibmcloud,Storage,object_storage_class_a_api,Class A API for object storage
+ibmcloud,Storage,object_storage_class_b_api,Class B API for object storage
+ibmcloud,Storage,object_storage_flex_charge,Flexible charging for object storage
+ibmcloud,Storage,object_storage_flex_max_cap,Max capacity for flexible object storage
+ibmcloud,Storage,object_storage_min_duration,Minimum duration for object storage
+ibmcloud,Storage,object_storage_min_size,Minimum size for object storage
+ibmcloud,Storage,object_storage_retrieval,Retrieves object storage data
+ibmcloud,Storage,object_storage_service,Object storage service management
+ibmcloud,Storage,object_storage_usage_bandwidth,Tracks object storage bandwidth usage
+ibmcloud,Storage,object_storage_usage_class_a_api,Tracks usage of Class A API for object storage
+ibmcloud,Storage,object_storage_usage_class_b_api,Tracks usage of Class B API for object storage
+ibmcloud,Storage,object_storage_usage_flex_charge,Tracks flexible charging for object storage
+ibmcloud,Storage,object_storage_usage_retrieval,Tracks retrieval of object storage data
+ibmcloud,Storage,object_storage_usage_service,Tracks object storage service usage
+ibmcloud,Storage,openstack_cinder_storage_service,OpenStack Cinder storage service
+ibmcloud,Storage,openstack_cinder_storage_snapshot,OpenStack Cinder storage snapshot
+ibmcloud,Storage,openstack_object_storage,OpenStack object storage
+ibmcloud,Storage,performance_storage_iops,Performance storage IOPS management
+ibmcloud,Storage,performance_storage_iscsi,Performance storage iSCSI management
+ibmcloud,Storage,performance_storage_nfs,Performance storage NFS management
+ibmcloud,Storage,performance_storage_replication,Performance storage replication
+ibmcloud,Storage,performance_storage_space,Performance storage space management
+ibmcloud,Storage,public_storage,Public storage service
+ibmcloud,Storage,storage_as_a_service,Storage as a service
+ibmcloud,Storage,storage_backend_upgrade,Upgrades for storage backend
+ibmcloud,Storage,storage_block,Block storage service
+ibmcloud,Storage,storage_file,File storage service
+ibmcloud,Storage,StorageLayer,Storage layer management
+ibmcloud,Storage,storagelayer_additional_storage,Additional storage for storage layer
+ibmcloud,Storage,storage_service_enterprise,Enterprise storage service
+ibmcloud,Storage,storage_snapshot_space,Snapshot space for storage
+ibmcloud,Storage,storage_tier_level,Storage tier level management
+ibmcloud,Storage,volume,Volume storage service
+ibmcloud,Storage,Block Storage Snapshots for VPC,Block storage snapshots for VPC
+ibmcloud,Support,support_services,Provides support services
+ibmcloud,VMware,vmware-solutions,VMware solutions for cloud
+ibmcloud,VMware,VMware Solutions,VMware solutions for cloud
+ibmcloud,Network,Direct Link Dedicated (2.0),Dedicated direct link service
+ibmcloud,Storage,Portworx Enterprise,Enterprise storage solution
+ibmcloud,Compute,placement-group,Manages placement groups
+ibmcloud,Service,px-backup,Backup service
+democloud,Compute,Compute,Compute services
+democloud,Database,Database,Database services
+democloud,Container,Containers,Container services
+alicloud,Other,Unassociated Cost,Unassociated cost tracking
+alicloud,Compute,Elastic Compute Service,Elastic compute service
+alicloud,Compute,vms,Virtual machines
+alicloud,Compute,Elastic Container Instance,Elastic container instances
+alicloud,Compute,Container Service for Kubernetes,Kubernetes container service
+alicloud,Compute,Function Compute,Function compute service
+alicloud,Compute,Marketplace,Cloud marketplace
+alicloud,Storage,Elastic Block Storage,Elastic block storage
+alicloud,Storage,Object Storage Service,Object storage service
+alicloud,Storage,Apsara File Storage NAS,File storage NAS
+alicloud,Network,Server Load Balancer,Server load balancer
+alicloud,Network,NAT Gateway,NAT gateway service
+alicloud,Network,Elastic IP Address,Elastic IP address service
+alicloud,Network,VPN Gateway,VPN gateway service
+alicloud,Network,Alibaba Cloud DNS PrivateZone,Private DNS service
+alicloud,Database,ApsaraDB for MongoDB,Managed MongoDB service
+alicloud,Database,Relational Database Service (RDS),Relational database service
+alicloud,Database,ApsaraDB for Redis,Managed Redis service
+alicloud,Database,ApsaraDB for POLARDB,Managed POLARDB service
+alicloud,Database,ApsaraDB RDS,Relational database service
+alicloud,Security,KeyManagementService,Key management service
+alicloud,Service,Log Service,Log management service
+alicloud,Service,Message Queue,Message queue service
+oci,Compute,Virtual Machines,Virtual machines
+oci,Compute,Compute,Compute services
+oci,Compute,Bare Metal servers,Bare metal servers
+oci,Compute,Vmware,VMware services
+oci,Compute,GPU-Accelerated compute,GPU-accelerated compute
+oci,Compute,Secure Desktops,Secure desktop services
+oci,Compute,Dedicated VM host,Dedicated VM host
+oci,Compute,OS Management,OS management service
+oci,Database,database,Database services
+oci,Database,Database,Database services
+oci,Database,Exadata database service,Exadata database service
+oci,Database,cache with redis,Redis cache service
+oci,Database,Database with postgreSQL,PostgreSQL database service
+oci,Database,Odsp,ODSP database service
+oci,Database,Mysql,MySQL database service
+oci,Storage,Blockstorage,Block storage service
+oci,Storage,Block_storage,Block storage service
+oci,Storage,Objectstore,Object storage service
+oci,Storage,Block volumes,Block volumes service
+oci,Storage,File storage,File storage service
+oci,Storage,Filestorageservice,File storage service
+oci,Storage,Object storage,Object storage service
+oci,Service,Oracle_notification_service,Oracle notification service
+oci,Service,Telemetry,Telemetry service
+oci,Security,Kms_shard4,Key management service
+oci,Security,Network Firewall,Network firewall service
+oci,Security,Secret Management,Secret management service
+oci,Security,Security zones,Security zones service
+oci,Security,Web Application firewall (WAF),Web application firewall
+oci,Analytics,Logging,Logging service
+oci,Network,Network,Network services
+oci,Network,Load balancers,Load balancer service
+oci,Network,Virtual cloud networks,Virtual cloud networks
+oci,Network,Dns management,DNS management service
+oci,Network,Fast connect,Fast connect service

@@ -1,0 +1,16 @@
+apiVersion: 1
+
+deleteDatasources:
+ - name: grafana-postgresql-datasource
+datasources:
+  - name: grafana-postgresql-datasource
+    type: postgres
+    access: proxy
+    url: host.docker.internal:5432
+    database: user_feedback
+    user: postgres
+    secureJsonData:
+      password: admin
+    isDefault: true
+    jsonData:
+      sslmode: disable
