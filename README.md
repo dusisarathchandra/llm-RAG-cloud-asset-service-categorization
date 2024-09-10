@@ -257,6 +257,8 @@ streamlit run app.py
 
 ### Accessing Grafana Monitoring Dashboard
 
+> *Note*: Seen issue while accessing Grafana dashboard on Chrome. Please try different browsers if you get `Unauthorzied` error.
+
 - On your favorite browser visit http://localhost:3000
 
 - Upon visiting the page, if you're asked to enter credentials, it's defaulted to below ones:
@@ -268,6 +270,8 @@ username: admin
 password: admin
 
 ```
+
+Give a new password also as `admin`
 
 - Once you successfully authenticate, you'll be taken to homescreen like this:
 
