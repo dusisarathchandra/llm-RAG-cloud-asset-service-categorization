@@ -39,7 +39,6 @@ A Retrieval-Augmented Generation (RAG) application designed to predict the categ
 
 - [Contributing](#contributing)
 
-- [License](#license)
 
   
 
