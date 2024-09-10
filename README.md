@@ -7,7 +7,7 @@
 
 A Retrieval-Augmented Generation (RAG) application designed to predict the category of cloud assets. This project integrates AI-based techniques to assist in finding relevant cloud asset service categories based on user queries.
 
-  
+![cloud-asset-service-categorizer](./setup-docs/cloud-asset-service-categorizer.gif)
 
 ## Features
 
