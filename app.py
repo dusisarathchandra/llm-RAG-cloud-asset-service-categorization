@@ -278,8 +278,6 @@ response = ""
 if st.button("Fetch the cloud asset service category"):
     with st.spinner("Hold tight, while I fetch the cloud asset service category! This might take a while 🙂"):
         st.session_state.response = rag_vector_ollama(query)
-        st.write(f"Type of st.session_state.response: {type(st.session_state.response)}")
-        print(remove_backticks(st.session_state.response))
         st.session_state.response = remove_backticks(st.session_state.response)
         st.session_state.response = json.loads(st.session_state.response)
         print(st.session_state.response)
