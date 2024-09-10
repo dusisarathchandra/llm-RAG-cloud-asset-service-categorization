@@ -121,8 +121,13 @@ cd llm-RAG-cloud-asset-service-categorization
 
 python -m venv env
 
-source env/bin/activate # On Windows, use `env\Scripts\activate`
+source env/bin/activate
 
+```
+
+- On windows
+```
+source env\Scripts\activate
 ```
 
   

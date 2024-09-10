@@ -287,7 +287,7 @@ if st.button("Fetch the cloud asset service category"):
      
 # Show feedback buttons only if the "Fetch the cloud service category" button is clicked
 if st.session_state.button_clicked:
-    st.write("Please rate the service (1 to 5):")
+    st.write("Rate your experience:")
     col1, col2, col3, col4, col5 = st.columns(5)
     category = st.session_state.response.get('category', 'Unknown')
     service = st.session_state.response.get('service', 'Unknown')
