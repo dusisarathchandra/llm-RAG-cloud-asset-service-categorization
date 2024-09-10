@@ -151,6 +151,8 @@ pip install -r requirements.txt
 
 - Make sure that you've access to run **`docker-compose`**
 
+- Open a terminal and run the following
+
 ##### On Linux/Mac:
 
 ```
@@ -171,7 +173,8 @@ docker-compose up --build
 
 ```
 
-  
+
+* Don't close the terminal
 
 #### 2. Confirm that the containers are running
 
@@ -196,6 +199,7 @@ If you're using `Docker Desktop`, open it and make sure all the below containers
   
 
 -  ##### Via Command line (lists all the docker containers)
+Open another terminal and execute the below command.
 
 ```
 
