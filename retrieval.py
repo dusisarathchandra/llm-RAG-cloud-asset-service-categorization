@@ -31,7 +31,7 @@ class RetrieveContext:
         print(f'\n\nWorking on query: {query}')
         context_data = self.table.search(
             query,
-            query_type="hybrid",
+            query_type="hybrid", 
             vector_column_name=VECTOR_DB_DICT.get('VECTOR_COLUMN'),
         ).rerank(reranker=reranker).limit(top_k).to_pandas()
         return context_data

@@ -265,18 +265,18 @@ def create_database_if_not_exists():
 create_feedback_table()
 
 # Streamlit application
-st.title("Cloud Service Category Fetcher")
+st.title("Cloud Asset Service Categorizer")
 
 # Display a tip about the app with an image
-st.info("""Welcome to the Cloud Service Category Fetcher app! Give some details about the cloud service and click the button to fetch the cloud service category.""", icon="💡")
+st.info("""Welcome to the Cloud Asset Service Category Identifier app! Provide a short description about the cloud asset and click the button to fetch its service category.""", icon="💡")
 
 # Input box for the question
-query = st.text_input("Enter your question:", placeholder="e.g., What is the best cloud storage service?", max_chars=500)
+query = st.text_input("Enter your question:", placeholder="e.g., Interactive query to analyze data on S3", max_chars=500)
 response = ""
 
 # Button to fetch the cloud service category
-if st.button("Fetch the cloud service category"):
-    with st.spinner("Fetching the cloud service category..."):
+if st.button("Fetch the cloud asset service category"):
+    with st.spinner("Hold tight, while I fetch the cloud asset service category! This might take a while 🙂"):
         st.session_state.response = rag_vector_ollama(query)
         st.write(f"Type of st.session_state.response: {type(st.session_state.response)}")
         print(remove_backticks(st.session_state.response))
