@@ -203,11 +203,22 @@ docker ps -a
 
 ```
 
-  
+ - Copy the Ollama docker container id
+
 
 ## Configuration
 
-  
+### Pull the LLM model through Ollama
+
+- Exec into Ollama docker container to pull the required model.
+> *Note:* As part of this project, I have used `gemma2:2b`. We try to pull the same using Ollama.
+
+```
+docker exec -it <Ollama-Container-ID> bash
+```
+```
+ollama pull gemma2:2b
+```
 
 Once you're sure the setup is done. Visit the project base folder:
 
