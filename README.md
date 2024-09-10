@@ -110,7 +110,7 @@ To set up this project locally, follow these steps:
 ```
 git clone https://github.com/dusisarathchandra/llm-RAG-cloud-asset-service-categorization.git
 
-cd llm-RAG-cloud-service-helper
+cd llm-RAG-cloud-asset-service-categorization
 ```
 
   
