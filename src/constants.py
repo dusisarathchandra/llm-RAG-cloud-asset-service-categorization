@@ -4,7 +4,7 @@ from elasticsearch import Elasticsearch
  
 EMBEDDINGS_DICT = {
     "model_registry": "sentence-transformers",
-    "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+    "model_name": "all-MiniLM-L6-v2",
     "vector_dims": "384",
     "device": "cpu" # can be 'cpu, 'gpu', 'cuda:0', etc.
 }

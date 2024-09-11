@@ -21,7 +21,7 @@ class Embeddings:
         device = EMBEDDINGS_DICT.get("device")
         print("Trying to get the model........")
         print("Model name is: ", model_name)
-        return self.get_model_registry().create(token="<Hugging_Face_Token>", device=device)
+        return self.get_model_registry().create(name=model_name, device=device)
 
     def connect_to_lancedb(self):
         return lanceDB(uri=LANCEDB_DICT.get('uri'))
