@@ -220,6 +220,14 @@ docker ps -a
 
 ## Configuration
 
+#### (Optional) Manual Ingestion of data
+> *Note:* Data is already ingested beforehand, if you want to manually ingest the data again, run the following command in a terminal with your virtual environment activated.
+
+- Below command will start creating the embeddings and pushing the vectors to LanceDB.
+```
+python ingestion.py
+```
+
 ### Pull the LLM model through Ollama
 
 - Exec into Ollama docker container to pull the required model.
