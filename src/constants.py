@@ -24,5 +24,6 @@ OLLAMA_URL = os.environ.get("OLLAMA_URL", "http://localhost:11434/v1/")
 
 # OpenAI Client
 LLM_CLIENT = OpenAI(base_url=OLLAMA_URL, api_key='ollama')
-
+DEPLOYMENT = os.environ.get("DEPLOYMENT", "local")
+API_KEY_GROQ = os.environ.get("API_KEY_GROQ", "<PROVIDE_YOUR_KEY>")
 os.environ["TOKENIZERS_PARALLELISM"] = "false" # to supress hugging face warning
