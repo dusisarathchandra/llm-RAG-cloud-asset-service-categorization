@@ -12,9 +12,11 @@ A Retrieval-Augmented Generation (RAG) application designed to predict the categ
 
 ![cloud-asset-service-categorizer](./setup-docs/cloud-asset-service-categorizer.gif)
 
-## Features
+## Deployed version of app in Cloud
 
-  
+You can access the deployed version of the app [here](https://llm-rag-cloud-asset-service-categorization.streamlit.app/).
+
+## Features  
 
 - Predicts cloud asset service categories.
 
