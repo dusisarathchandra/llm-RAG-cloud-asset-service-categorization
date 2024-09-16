@@ -14,12 +14,12 @@ Reference: The [evaluation criteria](https://github.com/DataTalksClub/llm-zoomca
   - [ ] 1 point: No knowledge base is used, and the LLM is queried directly
   - [x] 2 points: Both a knowledge base and an LLM are used in the RAG flow
 
-- ✅ Retrieval evaluation:
+- ✅ Retrieval evaluation: [File](../retrieval_evaluation.ipynb)
   - [ ] 0 points: No evaluation of retrieval is provided
   - [ ] 1 point: Only one retrieval approach is evaluated
   - [x] 2 points: Multiple retrieval approaches are evaluated, and the best one is used
 
-- ✅ RAG evaluation:
+- ✅ RAG evaluation: [File](../rag_evaluation.ipynb)
   - [ ] 0 points: No evaluation of RAG is provided
   - [ ] 1 point: Only one RAG approach (e.g., one prompt) is evaluated
   - [x] 2 points: Multiple RAG approaches are evaluated, and the best one is used
@@ -29,7 +29,7 @@ Reference: The [evaluation criteria](https://github.com/DataTalksClub/llm-zoomca
   - [ ] 1 point: Command line interface, a script, or a Jupyter notebook
   - [x] 2 points: UI (e.g., Streamlit), ~~web application (e.g., Django), or an API (e.g., built with FastAPI)~~
 
-- ✅ Ingestion pipeline
+- ✅ Ingestion pipeline [How to run](https://github.com/dusisarathchandra/llm-RAG-cloud-asset-service-categorization/tree/main?tab=readme-ov-file#optional-manual-ingestion-of-data)
   - [ ] 0 points: No ingestion
   - [ ] 1 point: Semi-automated ingestion of the dataset into the knowledge base, e.g., with a Jupyter notebook
   - [x] 2 points: Automated ingestion with a **Python script** ~~or a special tool (e.g., Mage, dlt, Airflow, Prefect)~~
@@ -54,5 +54,5 @@ Reference: The [evaluation criteria](https://github.com/DataTalksClub/llm-zoomca
   - [x] Document re-ranking (1 point)
   - [ ] User query rewriting (1 point)
 
-- ✅ Bonus points (not covered in the course)
+- ✅ Bonus points (not covered in the course) [APP Link](https://llm-rag-cloud-asset-service-categorization.streamlit.app/)
   - [x]  Deployment to the cloud (2 points)
