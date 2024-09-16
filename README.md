@@ -42,6 +42,8 @@ You can access the deployed version of the app [here](https://llm-rag-cloud-asse
 
 - [Configuration](#configuration)
 
+- [Project evaluation](./setup-docs/project_evaluation.md)
+
 - [Contributing](#contributing)
 
 
