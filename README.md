@@ -92,7 +92,9 @@ Created a fictional businees usecase to explain the need of Cloud Asset Service 
 Refer this [document](./setup-docs/cloud-asset-service-categorization.md) to check the business proposition.
 
   
-  
+### System Information
+
+The project is developed on a machine with these [specs](./setup-docs/system_specs.md)
 
 ### Prerequisites
 
@@ -236,6 +238,7 @@ python ingestion.py
 
 - Exec into Ollama docker container to pull the required model.
 > *Note:* As part of this project, I have used `gemma2:2b`. We try to pull the same using Ollama.
+- More about [gemma2:2b](https://ollama.com/library/gemma2)
 
 ```
 docker exec -it <Ollama-Container-ID> bash
@@ -243,6 +246,7 @@ docker exec -it <Ollama-Container-ID> bash
 ```
 ollama pull gemma2:2b
 ```
+
 
 Once you're sure the setup is done. Visit the project base folder:
 
@@ -268,7 +272,7 @@ streamlit run app.py
 
 ![App UI screen](./setup-docs/cloud-asset-service-categorizer-app.png)
 
-  
+> _Note_: If more than one model is running in Ollama container, the UI might through an error, either make sure you have more memory to hold all the docker containers or test with one model. 
 
 ### Accessing Grafana Monitoring Dashboard
 
