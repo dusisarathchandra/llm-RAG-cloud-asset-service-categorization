@@ -1,0 +1,126 @@
+description,category,service,cloud_provider,id
+Provides application performance management and monitoring.,Analytics,Application Insights,azure,dbfef36b
+Application performance management and monitoring service.,Analytics,Application Insights,azure,dbfef36b
+Service for managing and monitoring application performance.,Analytics,Application Insights,azure,dbfef36b
+Application performance monitoring and management offered.,Analytics,Application Insights,azure,dbfef36b
+Management and monitoring of application performance.,Analytics,Application Insights,azure,dbfef36b
+Service for object storage.,Storage,GCP Cloud Storage,gcp,f4c5d80a
+Provides object storage.,Storage,GCP Cloud Storage,gcp,f4c5d80a
+Object storage provided.,Storage,GCP Cloud Storage,gcp,f4c5d80a
+Storage service for objects.,Storage,GCP Cloud Storage,gcp,f4c5d80a
+Service offering object storage.,Storage,GCP Cloud Storage,gcp,f4c5d80a
+Marketplace for cloud services.,Compute,Marketplace,alicloud,a9fdb68c
+Cloud services marketplace.,Compute,Marketplace,alicloud,a9fdb68c
+Platform for cloud marketplace.,Compute,Marketplace,alicloud,a9fdb68c
+Marketplace offering cloud services.,Compute,Marketplace,alicloud,a9fdb68c
+Cloud-based marketplace.,Compute,Marketplace,alicloud,a9fdb68c
+Service for video transcoding.,Service,Zync,gcp,eddd7cff
+Provides video transcoding.,Service,Zync,gcp,eddd7cff
+Video transcoding provided.,Service,Zync,gcp,eddd7cff
+Transcoding service for videos.,Service,Zync,gcp,eddd7cff
+Service offering video transcoding.,Service,Zync,gcp,eddd7cff
+Performance testing service by BlazeMeter.,Service,paas_svc_plan_feat_blazemeter,ibmcloud,4b630982
+BlazeMeter's performance testing service.,Service,paas_svc_plan_feat_blazemeter,ibmcloud,4b630982
+Service for performance testing by BlazeMeter.,Service,paas_svc_plan_feat_blazemeter,ibmcloud,4b630982
+BlazeMeter performance testing provided.,Service,paas_svc_plan_feat_blazemeter,ibmcloud,4b630982
+Performance testing offered by BlazeMeter.,Service,paas_svc_plan_feat_blazemeter,ibmcloud,4b630982
+Management of AI lifecycle.,Service,aiopenscale,ibmcloud,7defc019
+AI lifecycle management service.,Service,aiopenscale,ibmcloud,7defc019
+Service for managing AI lifecycle.,Service,aiopenscale,ibmcloud,7defc019
+Lifecycle management for AI.,Service,aiopenscale,ibmcloud,7defc019
+AI lifecycle managed.,Service,aiopenscale,ibmcloud,7defc019
+Network monitoring and diagnostics provided.,Monitoring,Network Watcher,azure,c1f0f51c
+Service for network monitoring and diagnostics.,Monitoring,Network Watcher,azure,c1f0f51c
+Monitoring and diagnostics of network provided.,Monitoring,Network Watcher,azure,c1f0f51c
+Network diagnostics and monitoring service.,Monitoring,Network Watcher,azure,c1f0f51c
+Service offering network monitoring and diagnostics.,Monitoring,Network Watcher,azure,c1f0f51c
+Service enabled with SR-IOV.,Network,sriov_enabled,ibmcloud,01616f46
+SR-IOV service enabled.,Network,sriov_enabled,ibmcloud,01616f46
+Enabled SR-IOV service.,Network,sriov_enabled,ibmcloud,01616f46
+Service with SR-IOV enabled.,Network,sriov_enabled,ibmcloud,01616f46
+SR-IOV enabled.,Network,sriov_enabled,ibmcloud,01616f46
+Service for bare metal gateway license.,License,bare_metal_gateway_license,ibmcloud,649f8ff7
+Bare metal gateway license provided.,License,bare_metal_gateway_license,ibmcloud,649f8ff7
+License service for bare metal gateway.,License,bare_metal_gateway_license,ibmcloud,649f8ff7
+Gateway license service for bare metal.,License,bare_metal_gateway_license,ibmcloud,649f8ff7
+Service offering bare metal gateway license.,License,bare_metal_gateway_license,ibmcloud,649f8ff7
+Object storage that is scalable.,Storage,object_storage,ibmcloud,991a00e1
+Scalable storage for objects.,Storage,object_storage,ibmcloud,991a00e1
+Storage service for scalable objects.,Storage,object_storage,ibmcloud,991a00e1
+Provides scalable object storage.,Storage,object_storage,ibmcloud,991a00e1
+Service offering scalable object storage.,Storage,object_storage,ibmcloud,991a00e1
+Services provided by AT&T.,Service,paas_svc_plan_att,ibmcloud,070acbdc
+AT&T provided services.,Service,paas_svc_plan_att,ibmcloud,070acbdc
+Service offerings by AT&T.,Service,paas_svc_plan_att,ibmcloud,070acbdc
+AT&T service offerings.,Service,paas_svc_plan_att,ibmcloud,070acbdc
+Services by AT&T.,Service,paas_svc_plan_att,ibmcloud,070acbdc
+Managed service by IBM for deploying MongoDB instances.,Service,paas_svc_plan_mongodb,ibmcloud,7fe00d80
+IBM's managed service for MongoDB instance deployment.,Service,paas_svc_plan_mongodb,ibmcloud,7fe00d80
+Service by IBM for managing and deploying MongoDB instances.,Service,paas_svc_plan_mongodb,ibmcloud,7fe00d80
+Deploy MongoDB instances with IBM's managed service.,Service,paas_svc_plan_mongodb,ibmcloud,7fe00d80
+IBM offers a managed service for MongoDB instance deployment.,Service,paas_svc_plan_mongodb,ibmcloud,7fe00d80
+Services for key management.,Security,key,ibmcloud,646945b4
+Key management provided.,Security,key,ibmcloud,646945b4
+Management services for keys.,Security,key,ibmcloud,646945b4
+Provides key management services.,Security,key,ibmcloud,646945b4
+Service offering key management.,Security,key,ibmcloud,646945b4
+Service for network tunneling.,Network,network_tunnel,ibmcloud,5bb51002
+Provides network tunnel service.,Network,network_tunnel,ibmcloud,5bb51002
+Network tunneling service provided.,Network,network_tunnel,ibmcloud,5bb51002
+Service offering network tunnels.,Network,network_tunnel,ibmcloud,5bb51002
+Network tunnel service available.,Network,network_tunnel,ibmcloud,5bb51002
+Service for general network needs.,Network,Network,ibmcloud,eccf6aed
+Provides general network services.,Network,Network,ibmcloud,eccf6aed
+General network services provided.,Network,Network,ibmcloud,eccf6aed
+Service offering general network solutions.,Network,Network,ibmcloud,eccf6aed
+General network service available.,Network,Network,ibmcloud,eccf6aed
+Provides petabyte-scale data transport solutions.,Storage,AWS Snowball,aws,7dcc7a26
+Data transport solutions at petabyte scale offered.,Storage,AWS Snowball,aws,7dcc7a26
+Service offering petabyte-scale data transport.,Storage,AWS Snowball,aws,7dcc7a26
+Petabyte-scale data transport solutions provided.,Storage,AWS Snowball,aws,7dcc7a26
+Solutions for petabyte-scale data transport.,Storage,AWS Snowball,aws,7dcc7a26
+Service for infrastructure deployment.,Compute,Deployment Manager,gcp,f2cfccc9
+Provides infrastructure deployment services.,Compute,Deployment Manager,gcp,f2cfccc9
+Infrastructure deployment service provided.,Compute,Deployment Manager,gcp,f2cfccc9
+Service offering infrastructure deployment.,Compute,Deployment Manager,gcp,f2cfccc9
+Deployment service for infrastructure.,Compute,Deployment Manager,gcp,f2cfccc9
+Service for general disk storage.,Storage,disk22,ibmcloud,484b96db
+Provides general disk storage.,Storage,disk22,ibmcloud,484b96db
+General disk storage provided.,Storage,disk22,ibmcloud,484b96db
+Service offering general disk storage.,Storage,disk22,ibmcloud,484b96db
+General storage for disks.,Storage,disk22,ibmcloud,484b96db
+Service for Virtual Private Cloud.,Network,Virtual Private Cloud,ibmcloud,0290a242
+Provides Virtual Private Cloud service.,Network,Virtual Private Cloud,ibmcloud,0290a242
+Virtual Private Cloud service provided.,Network,Virtual Private Cloud,ibmcloud,0290a242
+Service offering Virtual Private Cloud.,Network,Virtual Private Cloud,ibmcloud,0290a242
+Virtual Private Cloud available.,Network,Virtual Private Cloud,ibmcloud,0290a242
+Services for cloud integration.,Service,paas_svc_plan_cloud_integration,ibmcloud,d659ca4a
+Provides cloud integration services.,Service,paas_svc_plan_cloud_integration,ibmcloud,d659ca4a
+Cloud integration services provided.,Service,paas_svc_plan_cloud_integration,ibmcloud,d659ca4a
+Service offering cloud integration.,Service,paas_svc_plan_cloud_integration,ibmcloud,d659ca4a
+Integration services for cloud.,Service,paas_svc_plan_cloud_integration,ibmcloud,d659ca4a
+Provides operational insights workspaces.,Analytics,microsoft.operationalinsights/workspaces,azure,d7498c6e
+Operational insights workspaces offered.,Analytics,microsoft.operationalinsights/workspaces,azure,d7498c6e
+Service offering operational insights workspaces.,Analytics,microsoft.operationalinsights/workspaces,azure,d7498c6e
+Workspaces for operational insights provided.,Analytics,microsoft.operationalinsights/workspaces,azure,d7498c6e
+Operational insights workspaces available.,Analytics,microsoft.operationalinsights/workspaces,azure,d7498c6e
+Virtual firewall service with threat prevention.,Security,VM-Series Virtual NextGen Firewall w/ Threat Prevention - Bundle1 AWS,aws,d31d2df1
+Provides virtual firewall with threat prevention.,Security,VM-Series Virtual NextGen Firewall w/ Threat Prevention - Bundle1 AWS,aws,d31d2df1
+Service offering virtual firewall with threat prevention.,Security,VM-Series Virtual NextGen Firewall w/ Threat Prevention - Bundle1 AWS,aws,d31d2df1
+Threat prevention with virtual firewall provided.,Security,VM-Series Virtual NextGen Firewall w/ Threat Prevention - Bundle1 AWS,aws,d31d2df1
+Virtual firewall and threat prevention service.,Security,VM-Series Virtual NextGen Firewall w/ Threat Prevention - Bundle1 AWS,aws,d31d2df1
+Service for general disk storage.,Storage,disk97,ibmcloud,9b232c98
+Provides general disk storage.,Storage,disk97,ibmcloud,9b232c98
+General disk storage provided.,Storage,disk97,ibmcloud,9b232c98
+Service offering general disk storage.,Storage,disk97,ibmcloud,9b232c98
+General storage for disks.,Storage,disk97,ibmcloud,9b232c98
+Services for Connect Compose.,Service,paas_svc_plan_connect_compose,ibmcloud,9fc2c94f
+Provides Connect Compose services.,Service,paas_svc_plan_connect_compose,ibmcloud,9fc2c94f
+Connect Compose services provided.,Service,paas_svc_plan_connect_compose,ibmcloud,9fc2c94f
+Service offering Connect Compose.,Service,paas_svc_plan_connect_compose,ibmcloud,9fc2c94f
+Connect Compose available.,Service,paas_svc_plan_connect_compose,ibmcloud,9fc2c94f
+Reserved instances for SQL databases in Azure provided.,Database Reserved,Azure RI SQL Database,azure,c6bb737c
+Provides reserved instances for SQL databases in Azure.,Database Reserved,Azure RI SQL Database,azure,c6bb737c
+Service offering reserved instances for SQL databases in Azure.,Database Reserved,Azure RI SQL Database,azure,c6bb737c
+Azure reserved instances for SQL databases.,Database Reserved,Azure RI SQL Database,azure,c6bb737c
+SQL database reserved instances in Azure.,Database Reserved,Azure RI SQL Database,azure,c6bb737c

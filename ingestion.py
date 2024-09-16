@@ -10,7 +10,7 @@ sys.path.append(module_path)
 from src.lance_db import lanceDB
 from src.constants import LANCEDB_DICT, VECTOR_DB_DICT, EMBEDDINGS_DICT
 from src.embeddings import Embeddings
-INGESTED_DATA = os.path.abspath(os.getcwd() + '/data/Cloud_Provider_Services.csv')
+INGESTED_DATA = os.path.abspath(os.getcwd() + '/data/Cloud_Provider_Services_Hashed.csv')
 from lancedb.embeddings.sentence_transformers import SentenceTransformerEmbeddings
 from typing import Protocol
 
@@ -71,6 +71,7 @@ def generate_data_to_ingest():
                     "cloud_provider": row["cloud_provider"],
                     "service": row["service"],
                     "description": row["description"],
+                    "id": row["id"],
                 },
                 axis=1,
             ).values.tolist()
@@ -105,7 +106,8 @@ def data_ingestion():
         vector_description: Vector(dim=384) = model.VectorField()
         cloud_provider: str
         service: str
-        category: str =  model.SourceField()
+        category: str =  model.SourceField(),
+        id: str 
         class Config:
             arbitrary_types_allowed = True
     
@@ -128,7 +130,8 @@ def data_ingestion():
             "vector_description": chunk,
             "cloud_provider": data[i]['cloud_provider'],
             "service": data[i]['service'],
-            "category": data[i]['category']
+            "category": data[i]['category'],
+            "id": data[i]['id'],
         }
         entries.append(entry)
     table.add(entries)

@@ -1,0 +1,26 @@
+cloud_provider,category,service,description,id
+azure,Analytics,Application Insights,Offers application performance management and monitoring.,dbfef36b
+gcp,Storage,GCP Cloud Storage,Object storage service.,f4c5d80a
+alicloud,Compute,Marketplace,Cloud marketplace,a9fdb68c
+gcp,Service,Zync,Video transcoding service.,eddd7cff
+ibmcloud,Service,paas_svc_plan_feat_blazemeter,BlazeMeter service for performance testing.,4b630982
+ibmcloud,Service,aiopenscale,AI lifecycle management,7defc019
+azure,Monitoring,Network Watcher,Provides network monitoring and diagnostics.,c1f0f51c
+ibmcloud,Network,sriov_enabled,SR-IOV enabled service,01616f46
+ibmcloud,License,bare_metal_gateway_license,Bare metal gateway license service,649f8ff7
+ibmcloud,Storage,object_storage,Scalable object storage,991a00e1
+ibmcloud,Service,paas_svc_plan_att,AT&T services,070acbdc
+ibmcloud,Service,paas_svc_plan_mongodb,IBM MongoDB is a managed service for deploying MongoDB instances.,7fe00d80
+ibmcloud,Security,key,Key management services,646945b4
+ibmcloud,Network,network_tunnel,Network tunnel service,5bb51002
+ibmcloud,Network,Network,General network service,eccf6aed
+aws,Storage,AWS Snowball,Offers petabyte-scale data transport solutions.,7dcc7a26
+gcp,Compute,Deployment Manager,Infrastructure deployment service.,f2cfccc9
+ibmcloud,Storage,disk22,General disk storage,484b96db
+ibmcloud,Network,Virtual Private Cloud,Virtual Private Cloud service,0290a242
+ibmcloud,Service,paas_svc_plan_cloud_integration,Cloud integration services,d659ca4a
+azure,Analytics,microsoft.operationalinsights/workspaces,Offers operational insights workspaces.,d7498c6e
+aws,Security,VM-Series Virtual NextGen Firewall w/ Threat Prevention - Bundle1 AWS,Virtual firewall with threat prevention,d31d2df1
+ibmcloud,Storage,disk97,General disk storage,9b232c98
+ibmcloud,Service,paas_svc_plan_connect_compose,Connect Compose services,9fc2c94f
+azure,Database Reserved,Azure RI SQL Database,Reserved instances for SQL databases in Azure.,c6bb737c
