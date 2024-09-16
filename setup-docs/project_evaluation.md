@@ -42,7 +42,7 @@ Reference: The [evaluation criteria](https://github.com/DataTalksClub/llm-zoomca
 - ✅ Containerization:
   - [ ] 0 points: No containerization
   - [x] 1 point: Dockerfile is provided for the main application OR there's a docker-compose for the dependencies only
-  - [] 2 points: Everything is in docker-compose
+  - [ ] 2 points: Everything is in docker-compose
 
 - ✅ Reproducibility:
   - [ ] 0 points: No instructions on how to run the code, the data is missing, or it's unclear how to access it
