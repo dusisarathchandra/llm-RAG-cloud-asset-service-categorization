@@ -179,7 +179,9 @@ if DEPLOYMENT == "local":
 st.title("Cloud Asset Service Categorizer")
 
 # Display a tip about the app with an image
-st.info("""Welcome to the Cloud Asset Service Category Identifier app! Provide a short description about the cloud asset and click the button to fetch its service category.""", icon="💡")
+st.info("""Welcome to the Cloud Asset Service Category Identifier app! 
+        Provide a short description about the cloud asset & Click the button to find out its likely Category & Service.
+        For more information on usecase visit [here](https://github.com/dusisarathchandra/llm-RAG-cloud-asset-service-categorization/blob/main/setup-docs/cloud-asset-service-categorization.md): """, icon="💡")
 
 # Input box for the question
 query = st.text_input("Enter your question:", placeholder="e.g., Interactive query to analyze data on S3", max_chars=500)
