@@ -19,7 +19,7 @@ class RetrieveContext:
         print(self.lancedb_connection)
         self.table = self.lancedb_connection.open_table(VECTOR_DB_DICT.get('TABLE_NAME'))
     
-    def get_context(self, query, top_k=5, weight=0.8):
+    def get_context(self, query, top_k=5, weight=0.8, query_type="hybrid"):
         print("Getting context from the table")
         print(f'table name: {self.table.name}')
         df = self.table.to_pandas()
@@ -30,9 +30,16 @@ class RetrieveContext:
         print(f'Working on query: {query}')
         context_data = self.table.search(
             query,
-            query_type="hybrid",
+            query_type=query_type,
             vector_column_name=VECTOR_DB_DICT.get('VECTOR_COLUMN'),
         ).rerank(reranker=reranker).limit(top_k).to_pandas()
+        return context_data
+    
+    def get_fts_and_vector_context(self, query, query_type="fts", top_k=5, weight=0.8):
+        print("Getting context from the table")
+        print(f'table name: {self.table.name}')
+        print(f'Working on query: {query}')
+        context_data = self.table.search(query, query_type=query_type).limit(5).to_pandas()
         return context_data
     
 if __name__ == "__main__":
