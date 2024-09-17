@@ -220,7 +220,7 @@ Open another terminal and execute the below command.
 
 ```
 
-docker ps -a
+docker ps -a | grep ollama
 
 ```
 
