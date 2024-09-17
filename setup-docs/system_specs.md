@@ -1,4 +1,4 @@
-Command: system_profiler SPHardwareDataType
+> Command: `system_profiler SPHardwareDataType`
 
 Hardware:
 

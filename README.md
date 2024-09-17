@@ -14,17 +14,18 @@ A Retrieval-Augmented Generation (RAG) application designed to predict the categ
 
 ## Deployed version of app in Cloud
 
-You can access the deployed version of the app [here](https://llm-rag-cloud-asset-service-categorization.streamlit.app/).
+You can access the deployed version of the app [here](https://llm-rag-cloud-asset-service-categorization.streamlit.app/). 
+> Note: Providing User feedback & Monitoring dashboard is available only for the locally deployed version of app.
 
 ## Features  
 
 - Predicts cloud asset service categories.
 
-- Utilizes RAG architecture with **_LanceDB_** (for Vector Search) and **_ElasticSearch_**.
+- Utilizes RAG architecture with [**_LanceDB_**](https://lancedb.github.io/lancedb/concepts/vector_search/) (for Vector Search) and **_ElasticSearch_**.
 
-- Added support to use Open Source models locally using **_Ollama_**.
+- Added support to use Open Source models locally using [**_Ollama_**](https://ollama.com/).
 
-- Monitoring support to view dashboards.
+- [Monitoring](https://grafana.com/oss/grafana/) support to view dashboards.
 
   
 
@@ -42,7 +43,7 @@ You can access the deployed version of the app [here](https://llm-rag-cloud-asse
 
 - [Configuration](#configuration)
 
-- [Project evaluation](./setup-docs/project_evaluation.md)
+- [Project Evaluation](./setup-docs/project_evaluation.md)
 
 - [Contributing](#contributing)
 
@@ -153,7 +154,7 @@ pip install -r requirements.txt
 
 #### Set Up Docker Compose
 
-- Follow this [link](./setup-docs/docker-compose-installation-guide.md) to install `docker-compose`
+- Follow this [link](./setup-docs/docker-compose-installation-guide.md) to install [**`docker-compose`**](https://docs.docker.com/compose/)
 
   
 
@@ -198,7 +199,7 @@ docker-compose up --build
 
   
 
-If you're using `Docker Desktop`, open it and make sure all the below containers are up and running.
+If you're using [`Docker Desktop`](https://docs.docker.com/desktop/install/mac-install/), open it and make sure all the below containers are up and running.
 
   
 
@@ -212,7 +213,9 @@ If you're using `Docker Desktop`, open it and make sure all the below containers
 
   
 
--  ##### Via Command line (lists all the docker containers)
+#### 3. Configuration step to pull Ollama model. 
+* Command line (lists all the docker containers)
+
 Open another terminal and execute the below command.
 
 ```
@@ -223,6 +226,8 @@ docker ps -a
 
  - Copy the Ollama docker container id
 
+
+![ollama Container](./setup-docs/connecting%20-to-ollama-container.png)
 
 ## Configuration
 
@@ -247,6 +252,11 @@ docker exec -it <Ollama-Container-ID> bash
 ollama pull gemma2:2b
 ```
 
+![ollama Pull Model](./setup-docs/ollama-pull-model.png)
+
+- Confirm successfull pull of the model by running command `ollama list` (must list `gemma2:2b` model)
+
+![ollama list](./setup-docs/ollama-list.png)
 
 Once you're sure the setup is done. Visit the project base folder:
 
